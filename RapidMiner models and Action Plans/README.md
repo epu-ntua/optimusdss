@@ -1,4 +1,4 @@
-Synopsis
+RapidMiner Prediction Models and Action Plans
 =======
 
 Each of the .R files includes a script which can be used to calculate one of the Action Plans (APs) or Prediction Models (PMs) developed within the OPTIMUS project for implementing the DSS to the following pilots: Sant Cugat - Savona - Zaanstad.
