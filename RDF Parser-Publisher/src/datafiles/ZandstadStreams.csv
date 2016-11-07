@@ -1,0 +1,425 @@
+ID,WP Module,Data items,Units,City/Pilot,Stream,{Sensor},Zaanstad csv NPO Description
+1,De-centralized data,"Buildingpart AB, total electricity main distribution A (logged every hour)",kWh,Zaanstad - Town hall,zaanstad_townhall_bms_electricity_BuildingpartAB_A,totalelectricity_maindistributionA,A totaal E-kWh HVK A-1.39 (uur)
+2,De-centralized data,Presence F2.04,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy,presence_F2_04,Aanwezigheid F2.04
+3,De-centralized data,"Buildingpart AB, total electricity main distribution B (logged every hour)",kWh,Zaanstad - Town hall,zaanstad_townhall_bms_electricity_BuildingpartAB_B,totalelectricity_maindistributionB,B totaal E-kWh HVK A-1.39 (uur)
+4,De-centralized data,"Buildingpart GH, total electricity (logged every hour)",kWh,Zaanstad - Town hall,zaanstad_townhall_bms_electricity_BuildingpartGH,totalelectricity,B1 E-kWh SHVK-B1 L-1.16 (uur)
+5,De-centralized data,"Buildingpart EF, total electricity (logged every hour)",kWh,Zaanstad - Town hall,zaanstad_townhall_bms_electricity_BuildingpartEF,totalelectricity,B2 E-kWh SHVK-B2 L-1.25 (uur)
+6,De-centralized data,"Buildingpart CD, total electricity (logged every hour)",kWh,Zaanstad - Town hall,zaanstad_townhall_bms_electricity_BuildingpartCD,totalelectricity,B3 E-kWh SHVK-B3 L-1.31 (uur)
+7,De-centralized data,Outdoor Relative Humidity,kWh,Zaanstad - Town hall,zaanstad_townhall_bms_outdoor_humidity,outdoor_humidity,Buiten rv weerstation
+8,De-centralized data,Outdoor temperature,C,Zaanstad - Town hall,zaanstad_townhall_bms_outdoor_temperature,outdoor_temperature,Buitentemperatuur
+9,De-centralized data,Outdoor temperature (this one is more accurate),C,Zaanstad - Town hall,zaanstad_townhall_bms_outdoor_temperature_accurate,outdoor_temperature_accurate,Buitentemperatuur weerstation
+10,De-centralized data,Gas meter bus station,m3,Zaanstad - Town hall,zaanstad_townhall_bms_gasmeter_busstation,busstation_gas,Gasmeter busstation
+11,De-centralized data,Gas meter City Hall,m3,Zaanstad - Town hall,zaanstad_townhall_bms_gasmeter_cityhall,cityhall_gas,Gasmeter Stadhuis
+12,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_B3_03,attendancebutton_B3_03,Presentie knop B3.03
+13,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_B3_04,attendancebutton_B3_04,Presentie knop B3.04
+14,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_B4_03,attendancebutton_B4_03,Presentie knop B4.03
+15,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_C1_03,attendancebutton_C1_03,Presentie knop C1.03
+16,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_C1_04,attendancebutton_C1_04,Presentie knop C1.04
+17,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_C2_03,attendancebutton_C2_03,Presentie knop C2.03
+18,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_C3_03,attendancebutton_C3_03,Presentie knop C3.03
+19,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_C3_04,attendancebutton_C3_04,Presentie knop C3.04
+20,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_C4_03,attendancebutton_C4_03,Presentie knop C4.03
+21,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_C4_04,attendancebutton_C4_04,Presentie knop C4.04
+22,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_D0_03,attendancebutton_D0_03,Presentie knop D0.03
+23,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_D0_04,attendancebutton_D0_04,Presentie knop D0.04
+24,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_D1_03,attendancebutton_D1_03,Presentie knop D1.03
+25,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_D1_04,attendancebutton_D1_04,Presentie knop D1.04
+26,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_D2_03,attendancebutton_D2_03,Presentie knop D2.03
+27,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_D2_04,attendancebutton_D2_04,Presentie knop D2.04
+28,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_D3_03,attendancebutton_D3_03,Presentie knop D3.03
+29,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_D3_04,attendancebutton_D3_04,Presentie knop D3.04
+30,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_D4_03,attendancebutton_D4_03,Presentie knop D4.03
+31,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_D4_04,attendancebutton_D4_04,Presentie knop D4.04
+32,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_E0_03,attendancebutton_E0_03,Presentie knop E0.03
+33,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_E0_04,attendancebutton_E0_04,Presentie knop E0.04
+34,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_E1_03,attendancebutton_E1_03,Presentie knop E1.03
+35,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_E1_04,attendancebutton_E1_04,Presentie knop E1.04
+36,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_E2_03,attendancebutton_E2_03,Presentie knop E2.03
+37,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_E2_04,attendancebutton_E2_04,Presentie knop E2.04
+38,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_E3_03,attendancebutton_E3_03,Presentie knop E3.03
+39,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_E3_04,attendancebutton_E3_04,Presentie knop E3.04
+40,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_E4_03,attendancebutton_E4_03,Presentie knop E4.03
+41,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_E4_04,attendancebutton_E4_04,Presentie knop E4.04
+42,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_F0_03,attendancebutton_F0_03,Presentie knop F0.03
+43,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_F02_04,attendancebutton_F02_04,Presentie knop F02.04
+44,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_F03_04,attendancebutton_F03_04,Presentie knop F03.04
+45,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_F1_03,attendancebutton_F1_03,Presentie knop F1.03
+46,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_F1_04,attendancebutton_F1_04,Presentie knop F1.04
+47,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_F2_03,attendancebutton_F2_03,Presentie knop F2.03
+48,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_F3_03,attendancebutton_F3_03,Presentie knop F3.03
+49,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_F4_03,attendancebutton_F4_03,Presentie knop F4.03
+50,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_F4_04,attendancebutton_F4_04,Presentie knop F4.04
+51,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_G1_03,attendancebutton_G1_03,Presentie knop G1.03
+52,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_G1_04,attendancebutton_G1_04,Presentie knop G1.04
+53,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_G2_03,attendancebutton_G2_03,Presentie knop G2.03
+54,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_G2_04,attendancebutton_G2_04,Presentie knop G2.04
+55,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_G3_03,attendancebutton_G3_03,Presentie knop G3.03
+56,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_G3_04,attendancebutton_G3_04,Presentie knop G3.04
+57,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_G4_03,attendancebutton_G4_03,Presentie knop G4.03
+58,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_G4_04,attendancebutton_G4_04,Presentie knop G4.04
+59,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_H0_03,attendancebutton_H0_03,Presentie knop H0.03
+60,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_H1_03,attendancebutton_H1_03,Presentie knop H1.03
+61,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_H2_02,attendancebutton_H2_02,Presentie knop H2.02
+62,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_H2_03,attendancebutton_H2_03,Presentie knop H2.03
+63,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_H3_02,attendancebutton_H3_02,Presentie knop H3.02
+64,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_H3_03,attendancebutton_H3_03,Presentie knop H3.03
+65,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_H4_02,attendancebutton_H4_02,Presentie knop H4.02
+66,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_H4_03,attendancebutton_H4_03,Presentie knop H4.03
+67,De-centralized data,Attendance button,yes/no,Zaanstad - Town hall,zaanstad_townhall_bms_occupancy_H4_04,attendancebutton_H4_04,Presentie knop H4.04
+68,De-centralized data,Room temperature A0.49 archive,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A0_49_archive,room_temperature_A0_49_archive,Ruimte temperatuur A0.49 Kantoor werkveld archief
+69,De-centralized data,Room temperature A0.50 office,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A0_50_office,room_temperature_A0_50_office,Ruimte temperatuur A0.50 kantoor
+70,De-centralized data,Room temperature A0.51 Archives Reading Room,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A0_51_Archives_Readingroom,room_temperature_A0_51_Archives_Readingroom,Ruimte temperatuur A0.51 Archiefleeszaal
+71,De-centralized data,Room temperature A1.14 and A1.15 Instruction Local,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A1_14_15_Instruction_Local,room_temperature_A1_14_15_Instruction_Local,Ruimte temperatuur A1.14 en A1.15 Instructielokaal
+72,De-centralized data,Room temperature A1.35 Meeting Room 8,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A1_35_meetingroom_8,room_temperature_A1_35_meetingroom_8,Ruimte temperatuur A1.35 Vergaderruimte 8
+73,De-centralized data,Room temperature A1.45 Meeting Room 4,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A1_45_meetingroom_4,room_temperature_A1_45_meetingroom_4,Ruimte temperatuur A1.45 Vergaderruimte 4
+74,De-centralized data,Room temperature A1.46 Conference Rooms 5,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A1_46_conferencerooms_5,room_temperature_A1_46_conferencerooms_5,Ruimte temperatuur A1.46 Vergaderruimte 5
+75,De-centralized data,Room temperature A1.47 Meeting Rooms 6,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A1_47_meetingrooms_6,room_temperature_A1_47_meetingrooms_6,Ruimte temperatuur A1.47 Vergaderruimte 6
+76,De-centralized data,Room temperature A1.48 Conference Rooms 7,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A1_48_conferencerooms_7,room_temperature_A1_48_conferencerooms_7,Ruimte temperatuur A1.48 Vergaderruimte 7
+77,De-centralized data,Room temperature A2.04 Reception Room 4,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_04_receptionroom_4,room_temperature_A2_04_receptionroom_4,Ruimte temperatuur A2.04 Ontvangstzaal 4
+78,De-centralized data,Room temperature A2.05 Reception Room 3,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_05_receptionroom_3,room_temperature_A2_05_receptionroom_3,Ruimte temperatuur A2.05 Ontvangstzaal 3
+79,De-centralized data,Room temperature A2.06 Reception Hall 2,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_06_receptionhall_2,room_temperature_A2_06_receptionhall_2,Ruimte temperatuur A2.06 Ontvangstzaal 2
+80,De-centralized data,Room temperature Meeting room A2.34 A2.11,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_34_A2_11_meetingroom,room_temperature_A2_34_A2_11_meetingroom,Ruimte temperatuur A2.34 Vergaderruimte A2.11
+81,De-centralized data,Room temperature Meeting room A2.36 A2.09,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_36_A2_09_meetingroom,room_temperature_A2_36_A2_09_meetingroom,Ruimte temperatuur A2.36 Vergaderruimte A2.09
+82,De-centralized data,Room temperature A2.47 Meeting Space A2.1,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_47_meetingspace_A2_1,room_temperature_A2_47_meetingspace_A2_1,Ruimte temperatuur A2.47 Vergaderruimte A2.1
+83,De-centralized data,Room temperature A2.48 Meeting Space A2.2,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_48_meetingspace_A2_2,room_temperature_A2_48_meetingspace_A2_2,Ruimte temperatuur A2.48 Vergaderruimte A2.2
+84,De-centralized data,Room temperature A2.49 Meeting Space A2.3,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_49_meetingspace_A2_3,room_temperature_A2_49_meetingspace_A2_3,Ruimte temperatuur A2.49 Vergaderruimte A2.3
+85,De-centralized data,Room temperature A2.50 Meeting Space A2.4,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_50_meetingspace_A2_4,room_temperature_A2_50_meetingspace_A2_4,Ruimte temperatuur A2.50 Vergaderruimte A2.4
+86,De-centralized data,Room temperature A2.51 Meeting Space A2.5,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_51_meetingspace_A2_5,room_temperature_A2_51_meetingspace_A2_5,Ruimte temperatuur A2.51 Vergaderruimte A2.5
+87,De-centralized data,Room temperature A2.51 Meeting Space A2.6,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_51_meetingspace_A2_6,room_temperature_A2_51_meetingspace_A2_6,Ruimte temperatuur A2.51 Vergaderruimte A2.6
+88,De-centralized data,Room temperature A2.53 meeting room A2.7,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_53_meetingroom_A2_7,room_temperature_A2_53_meetingroom_A2_7,Ruimte temperatuur A2.53 vergaderruimte A2.7
+89,De-centralized data,Room temperature A2.54 meeting room A2.8,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_54_meetingroom_A2_8,room_temperature_A2_54_meetingroom_A2_8,Ruimte temperatuur A2.54 vergaderruimte A2.8
+90,De-centralized data,Room temperature A2.55 meeting room A2.09,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A2_55_meetingroom_A2_09,room_temperature_A2_55_meetingroom_A2_09,Ruimte temperatuur A2.55 Vergaderruimte A2.09
+91,De-centralized data,Room temperature A3.13 Secretary Aldermen,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_13_Secretary_Aldermen,room_temperature_A3_13_Secretary_Aldermen,Ruimte temperatuur A3.13 Secretaresse Wethouders
+92,De-centralized data,Room temperature A3.14 Town Clerk,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_14_Town_Clerk,room_temperature_A3_14_Town_Clerk,Ruimte temperatuur A3.14 Gemeentesecretaris
+93,De-centralized data,Room temperature A3.15 Secretary Mayor,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_15_Secretary_Mayor,room_temperature_A3_15_Secretary_Mayor,Ruimte temperatuur A3.15 Secretaresse Burgemeester
+94,De-centralized data,Room temperature A3.17 Mayor,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_17_Mayor,room_temperature_A3_17_Mayor,Ruimte temperatuur A3.17 Burgemeester
+95,De-centralized data,Room temperature A3.18 Tea Room B & W,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_18_Tea_room_B&W,room_temperature_A3_18_Tea_room_B&W,Ruimte temperatuur A3.18 Koffiekamer B&W
+96,De-centralized data,Room temperature A3.19 Alderman,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_19_Alderman,room_temperature_A3_19_Alderman,Ruimte temperatuur A3.19 Wethouder
+97,De-centralized data,Room temperature A3.20 Alderman,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_20_Alderman,room_temperature_A3_20_Alderman,Ruimte temperatuur A3.20 Wethouder
+98,De-centralized data,Room temperature A3.21 Alderman,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_21_Alderman,room_temperature_A3_21_Alderman,Ruimte temperatuur A3.21 Wethouder
+99,De-centralized data,Room temperature A3.41 ​​Boardroom,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_41_​​Boardroom,room_temperature_A3_41_​​Boardroom,Ruimte temperatuur A3.41 Bestuurskamer
+100,De-centralized data,Room temperature A3.42 Alderman,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_42_Alderman,room_temperature_A3_42_Alderman,Ruimte temperatuur A3.42 Wethouder
+101,De-centralized data,Room temperature A3.43 Alderman,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_43_Alderman,room_temperature_A3_43_Alderman,Ruimte temperatuur A3.43 Wethouder
+102,De-centralized data,Room temperature A3.44 Alderman,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_44_Alderman,room_temperature_A3_44_Alderman,Ruimte temperatuur A3.44 Wethouder
+103,De-centralized data,Room temperature A3.45 Secretary Aldermans,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A3_45_Secretary_Aldermans,room_temperature_A3_45_Secretary_Aldermans,Ruimte temperatuur A3.45 Secretaresse Wethouders
+104,De-centralized data,Room temperature A4.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A4_04,room_temperature_A4_04,Ruimte temperatuur A4.04
+105,De-centralized data,Room temperature A4.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A4_05,room_temperature_A4_05,Ruimte temperatuur A4.05
+106,De-centralized data,Room temperature A4.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_A4_06,room_temperature_A4_06,Ruimte temperatuur A4.06
+107,De-centralized data,Room temperature B0.01 Behind Desks Public Affairs,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B0_01_Behind_Desks_Public_Affairs,room_temperature_B0_01_Behind_Desks_Public_Affairs,Ruimte temperatuur B0.01 Achter balies
+108,De-centralized data,Room temperature B0.04 Office of Public Affairs,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B0_04_Office_of_Public_Affairs,room_temperature_B0_04_Office_of_Public_Affairs,Ruimte temperatuur B0.04 Kantoor Publiekzaken
+109,De-centralized data,Room temperature B0.13 (Meetingroom 29),C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B0_13_meetingroom_29,room_temperature_B0_13_meetingroom_29,Ruimte temperatuur B0.13 Spreekkamer 29
+110,De-centralized data,Room temperature B0.14 (Meetingroom 30),C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B0_14_meetingroom_30,room_temperature_B0_14_meetingroom_30,Ruimte temperatuur B0.14 Spreekkamer 30
+111,De-centralized data,Room temperature B0.15 (Meetingroom 31),C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B0_15_meetingroom_31,room_temperature_B0_15_meetingroom_31,Ruimte temperatuur B0.15 Spreekkamer 31
+112,De-centralized data,Room temperature B0.16 (Meetingroom 32),C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B0_16_meetingroom_32,room_temperature_B0_16_meetingroom_32,Ruimte temperatuur B0.16 Spreekkamer 32
+113,De-centralized data,Room temperature B0.17 (Meetingroom 33),C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B0_17_meetingroom_33,room_temperature_B0_17_meetingroom_33,Ruimte temperatuur B0.17 Spreekkamer 33
+114,De-centralized data,Room temperature B0.18 office Public Affairs,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B0_18_office_Public_Affairs,room_temperature_B0_18_office_Public_Affairs,Ruimte temperatuur B0.18 Werkveld kantoor
+115,De-centralized data,Room temperature B0.20 (Meetingroom 34),C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B0_20_meetingroom_34,room_temperature_B0_20_meetingroom_34,Ruimte temperatuur B0.20 Spreekkamer 34
+116,De-centralized data,Room temperature B0.21 (Meetingroom 35),C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B0_21_meetingroom_35,room_temperature_B0_21_meetingroom_35,Ruimte temperatuur B0.21 Spreekkamer 35
+117,De-centralized data,Room temperature B0.22 (Meetingroom 36),C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B0_22_meetingroom_36,room_temperature_B0_22_meetingroom_36,Ruimte temperatuur B0.22 Spreekkamer 36
+118,De-centralized data,Room temperature B0.23 B0.24 Desk 27 and 28,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B0_23_B0_24_Desk_27_28,room_temperature_B0_23_B0_24_Desk_27_28,Ruimte temperatuur B0.23 B0.24 Balie 27 en 28
+119,De-centralized data,Room temperature B1.01 Inspection,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B1_01_Inspection,room_temperature_B1_01_Inspection,Ruimte temperatuur B1.01 Handhaving
+120,De-centralized data,Room temperature B1.02,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B1_02,room_temperature_B1_02,Ruimte temperatuur B1.02
+121,De-centralized data,Room temperature B1.32 Conference Room 1,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B1_32_conferenceroom_1,room_temperature_B1_32_conferenceroom_1,Ruimte temperatuur B1.32 Vergaderruimte 1
+122,De-centralized data,Room temperature B1.33 Meeting Room 2,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B1_33_meetingroom_2,room_temperature_B1_33_meetingroom_2,Ruimte temperatuur B1.33 Vergaderruimte 2
+123,De-centralized data,Room temperature B1.34 Meeting Room 3,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B1_34_meetingroom_3,room_temperature_B1_34_meetingroom_3,Ruimte temperatuur B1.34 Vergaderruimte 3
+124,De-centralized data,Room temperature B2.01 Reception Hall 1,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B2_01_receptionhall_1,room_temperature_B2_01_receptionhall_1,Ruimte temperatuur B2.01 Ontvangstzaal 1
+125,De-centralized data,Room temperature Reception room B2.02 pantry,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B2_02_receptionroom_pantry,room_temperature_B2_02_receptionroom_pantry,Ruimte temperatuur B2.02 Ontvangst pantry
+126,De-centralized data,Room temperature Auditorium B2.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B2_04_Auditorium,room_temperature_B2_04_Auditorium,Ruimte temperatuur B2.04 Auditorium
+127,De-centralized data,Room temperature B2.05 visitors centre,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B2_05_visitors_centre,room_temperature_B2_05_visitors_centre,Ruimte temperatuur B2.05 Ontvangst bezoekerscentrum
+128,De-centralized data,Room temperature B2.31 Disaster Area,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B2_31_Disaster_Area,room_temperature_B2_31_Disaster_Area,Ruimte temperatuur B2.31 Calamiteitenruimte
+129,De-centralized data,Room temperature B2.32,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B2_32,room_temperature_B2_32,Ruimte temperatuur B2.32
+130,De-centralized data,Room temperature B2.33,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B2_33,room_temperature_B2_33,Ruimte temperatuur B2.33
+131,De-centralized data,Room temperature B2.34,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B2_34,room_temperature_B2_34,Ruimte temperatuur B2.34
+132,De-centralized data,Room temperature B2.35,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B2_35,room_temperature_B2_35,Ruimte temperatuur B2.35
+133,De-centralized data,Room temperature B2.38,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B2_38,room_temperature_B2_38,Ruimte temperatuur B2.38
+134,De-centralized data,Room temperature B3.02,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B3_02,room_temperature_B3_02,Ruimte temperatuur B3.02
+135,De-centralized data,Room temperature B3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B3_03,room_temperature_B3_03,Ruimte temperatuur B3.03
+136,De-centralized data,Room temperature B3.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B3_04,room_temperature_B3_04,Ruimte temperatuur B3.04
+137,De-centralized data,Room temperature B3.31,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B3_31,room_temperature_B3_31,Ruimte temperatuur B3.31
+138,De-centralized data,Room temperature B3.33,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B3_33,room_temperature_B3_33,Ruimte temperatuur B3.33
+139,De-centralized data,Room temperature B3.35,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B3_35,room_temperature_B3_35,Ruimte temperatuur B3.35
+140,De-centralized data,Room temperature B3.36,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B3_36,room_temperature_B3_36,Ruimte temperatuur B3.36
+141,De-centralized data,Room temperature B3.37,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B3_37,room_temperature_B3_37,Ruimte temperatuur B3.37
+142,De-centralized data,Room temperature B4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B4_03,room_temperature_B4_03,Ruimte temperatuur B4.03
+143,De-centralized data,Room temperature B4.30,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B4_30,room_temperature_B4_30,Ruimte temperatuur B4.30
+144,De-centralized data,Room temperature B4.33,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B4_33,room_temperature_B4_33,Ruimte temperatuur B4.33
+145,De-centralized data,Room temperature B4.34,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B4_34,room_temperature_B4_34,Ruimte temperatuur B4.34
+146,De-centralized data,Room temperature B4.35,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B4_35,room_temperature_B4_35,Ruimte temperatuur B4.35
+147,De-centralized data,Room temperature B4.36,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_B4_36,room_temperature_B4_36,Ruimte temperatuur B4.36
+148,De-centralized data,Room temperature C21 meeting room 12,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C21_meetingroom_12,room_temperature_C21_meetingroom_12,Ruimte temperatuur C-.21 Spreekkamer 25
+149,De-centralized data,Office space temperature C0.02 field C0,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C0_02_field_C0,room_temperature_C0_02_field_C0,Ruimte temperatuur C0.02 Kantoor werkveld C0
+150,De-centralized data,Room temperature meeting room C0.03 12,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C0_03_meetingroom_12,room_temperature_C0_03_meetingroom_12,Ruimte temperatuur C0.03 Spreekkamer 12
+151,De-centralized data,Room temperature meeting room C0.04 13,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C0_04_meetingroom_13,room_temperature_C0_04_meetingroom_13,Ruimte temperatuur C0.04 Spreekkamer 13
+152,De-centralized data,Room temperature meeting room C0.05 14,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C0_05_meetingroom_14,room_temperature_C0_05_meetingroom_14,Ruimte temperatuur C0.05 Spreekkamer 14
+153,De-centralized data,Room temperature meeting room C0.06 15,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C0_06_meetingroom_15,room_temperature_C0_06_meetingroom_15,Ruimte temperatuur C0.06 Spreekkamer 15
+154,De-centralized data,C0.07 office space temperature field C0,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C0_07_field_C0,room_temperature_C0_07_field_C0,Ruimte temperatuur C0.07 kantoor werkveld C0
+155,De-centralized data,Room temperature C0.17 Ondertrouw Room,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C0_17_Ondertrouw_room,room_temperature_C0_17_Ondertrouw_room,Ruimte temperatuur C0.17 Ondertrouwkamer
+156,De-centralized data,Doctor's room temperature C0.22 26,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C0_22_26_doctor,room_temperature_C0_22_26_doctor,Ruimte temperatuur C0.22 Spreekkamer 26
+157,De-centralized data,Room temperature SER C0.23 Security,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C0_23_SER_Security,room_temperature_C0_23_SER_Security,Ruimte temperatuur C0.23 SER Beveiliging
+158,De-centralized data,Room temperature C0.24 Security Post,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C0_24_Security_Post,room_temperature_C0_24_Security_Post,Ruimte temperatuur C0.24 Beveiligingsloge
+159,De-centralized data,Room temperature C1.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C1_03,room_temperature_C1_03,Ruimte temperatuur C1.03
+160,De-centralized data,Room temperature C1.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C1_04,room_temperature_C1_04,Ruimte temperatuur C1.04
+161,De-centralized data,Room temperature C1.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C1_05,room_temperature_C1_05,Ruimte temperatuur C1.05
+162,De-centralized data,Room temperature C1.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C1_06,room_temperature_C1_06,Ruimte temperatuur C1.06
+163,De-centralized data,Room temperature C1.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C1_07,room_temperature_C1_07,Ruimte temperatuur C1.07
+164,De-centralized data,Room temperature C1.11 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C1_11_Club,room_temperature_C1_11_Club,Ruimte temperatuur C1.11 Club
+165,De-centralized data,Room temperature C2.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C2_03,room_temperature_C2_03,Ruimte temperatuur C2.03
+166,De-centralized data,Room temperature C2.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C2_04,room_temperature_C2_04,Ruimte temperatuur C2.04
+167,De-centralized data,Room temperature C2.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C2_06,room_temperature_C2_06,Ruimte temperatuur C2.06
+168,De-centralized data,Room temperature C2.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C2_07,room_temperature_C2_07,Ruimte temperatuur C2.07
+169,De-centralized data,Room temperature C2.11 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C2_11_windowzonewest,room_temperature_C2_11_windowzonewest,Ruimte temperatuur C2.11 Raamzone West
+170,De-centralized data,Room temperature C3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C3_03,room_temperature_C3_03,Ruimte temperatuur C3.03
+171,De-centralized data,Room temperature C3.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C3_04,room_temperature_C3_04,Ruimte temperatuur C3.04
+172,De-centralized data,Room temperature C3.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C3_05,room_temperature_C3_05,Ruimte temperatuur C3.05
+173,De-centralized data,Room temperature C3.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C3_06,room_temperature_C3_06,Ruimte temperatuur C3.06
+174,De-centralized data,Room temperature C3.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C3_07,room_temperature_C3_07,Ruimte temperatuur C3.07
+175,De-centralized data,Room temperature C4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C4_03,room_temperature_C4_03,Ruimte temperatuur C4.03
+176,De-centralized data,Room temperature C4.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C4_04,room_temperature_C4_04,Ruimte temperatuur C4.04
+177,De-centralized data,Room temperature C4.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C4_05,room_temperature_C4_05,Ruimte temperatuur C4.05
+178,De-centralized data,Room temperature C4.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C4_06,room_temperature_C4_06,Ruimte temperatuur C4.06
+179,De-centralized data,Room temperature C4.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C4_07,room_temperature_C4_07,Ruimte temperatuur C4.07
+180,De-centralized data,Room temperature C4.12 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C4_12_Club,room_temperature_C4_12_Club,Ruimte temperatuur C4.12 Club
+181,De-centralized data,Room temperature C4.12 Window Zone East,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_C4_12_windowzoneeast,room_temperature_C4_12_windowzoneeast,Ruimte temperatuur C4.12 Raamzone Oost
+182,De-centralized data,Room temperature D0.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D0_03,room_temperature_D0_03,Ruimte temperatuur D0.03
+183,De-centralized data,Room temperature D0.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D0_04,room_temperature_D0_04,Ruimte temperatuur D0.04
+184,De-centralized data,Room temperature D0.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D0_05,room_temperature_D0_05,Ruimte temperatuur D0.05
+185,De-centralized data,Room temperature D0.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D0_06,room_temperature_D0_06,Ruimte temperatuur D0.06
+186,De-centralized data,Room temperature D0.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D0_07,room_temperature_D0_07,Ruimte temperatuur D0.07
+187,De-centralized data,Room temperature D0.11 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D0_11_windowzonewest,room_temperature_D0_11_windowzonewest,Ruimte temperatuur D0.11 Raamzone West
+188,De-centralized data,Room temperature D1.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D1_03,room_temperature_D1_03,Ruimte temperatuur D1.03
+189,De-centralized data,Room temperature D1.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D1_04,room_temperature_D1_04,Ruimte temperatuur D1.04
+190,De-centralized data,Room temperature D1.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D1_05,room_temperature_D1_05,Ruimte temperatuur D1.05
+191,De-centralized data,Room temperature D1.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D1_06,room_temperature_D1_06,Ruimte temperatuur D1.06
+192,De-centralized data,Room temperature D1.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D1_07,room_temperature_D1_07,Ruimte temperatuur D1.07
+193,De-centralized data,Room temperature D1.19 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D1_19_windowzonewest,room_temperature_D1_19_windowzonewest,Ruimte temperatuur D1.19 Raamzone West
+194,De-centralized data,Room temperature D1.20 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D1_20_Club,room_temperature_D1_20_Club,Ruimte temperatuur D1.20 Club
+195,De-centralized data,Room temperature D2.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D2_03,room_temperature_D2_03,Ruimte temperatuur D2.03
+196,De-centralized data,Room temperature D2.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D2_04,room_temperature_D2_04,Ruimte temperatuur D2.04
+197,De-centralized data,Room temperature D2.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D2_05,room_temperature_D2_05,Ruimte temperatuur D2.05
+198,De-centralized data,Room temperature D2.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D2_06,room_temperature_D2_06,Ruimte temperatuur D2.06
+199,De-centralized data,Room temperature D2.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D2_07,room_temperature_D2_07,Ruimte temperatuur D2.07
+200,De-centralized data,Room temperature D2.11 Window Zone East,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D2_11_windowzoneeast,room_temperature_D2_11_windowzoneeast,Ruimte temperatuur D2.11 Raamzone Oost
+201,De-centralized data,Room temperature D3 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D3_windowzonewest,room_temperature_D3_windowzonewest,Ruimte temperatuur D3 Raamzone West
+202,De-centralized data,Room temperature D3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D3_03,room_temperature_D3_03,Ruimte temperatuur D3.03
+203,De-centralized data,Room temperature D3.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D3_04,room_temperature_D3_04,Ruimte temperatuur D3.04
+204,De-centralized data,Room temperature D3.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D3_05,room_temperature_D3_05,Ruimte temperatuur D3.05
+205,De-centralized data,Room temperature D3.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D3_06,room_temperature_D3_06,Ruimte temperatuur D3.06
+206,De-centralized data,Room temperature D3.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D3_07,room_temperature_D3_07,Ruimte temperatuur D3.07
+207,De-centralized data,Room temperature D3.20 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D3_20_Club,room_temperature_D3_20_Club,Ruimte temperatuur D3.20 Club
+208,De-centralized data,Room temperature D4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D4_03,room_temperature_D4_03,Ruimte temperatuur D4.03
+209,De-centralized data,Room temperature D4.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D4_04,room_temperature_D4_04,Ruimte temperatuur D4.04
+210,De-centralized data,Room temperature D4.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D4_05,room_temperature_D4_05,Ruimte temperatuur D4.05
+211,De-centralized data,Room temperature D4.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D4_06,room_temperature_D4_06,Ruimte temperatuur D4.06
+212,De-centralized data,Room temperature D4.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D4_07,room_temperature_D4_07,Ruimte temperatuur D4.07
+213,De-centralized data,Room temperature D4.19 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D4_19_windowzonewest,room_temperature_D4_19_windowzonewest,Ruimte temperatuur D4.19 Raamzone West
+214,De-centralized data,Room temperature D4.20 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_D4_20_Club,room_temperature_D4_20_Club,Ruimte temperatuur D4.20 Club
+215,De-centralized data,Room temperature Section Chair,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_Section_Chair,room_temperature_Section_Chair,Ruimte temperatuur Deelstoel
+216,De-centralized data,Room temperature E0.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E0_03,room_temperature_E0_03,Ruimte temperatuur E0.03
+217,De-centralized data,Room temperature E0.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E0_04,room_temperature_E0_04,Ruimte temperatuur E0.04
+218,De-centralized data,Room temperature E0.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E0_05,room_temperature_E0_05,Ruimte temperatuur E0.05
+219,De-centralized data,Room temperature E0.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E0_06,room_temperature_E0_06,Ruimte temperatuur E0.06
+220,De-centralized data,Room temperature E0.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E0_07,room_temperature_E0_07,Ruimte temperatuur E0.07
+221,De-centralized data,Room temperature E0.09 Window Zone East,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E0_09_windowzoneeast,room_temperature_E0_09_windowzoneeast,Ruimte temperatuur E0.09 Raamzone Oost
+222,De-centralized data,Room temperature E0.10 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E0_10_Club,room_temperature_E0_10_Club,Ruimte temperatuur E0.10 Club
+223,De-centralized data,Room temperature E1.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E1_03,room_temperature_E1_03,Ruimte temperatuur E1.03
+224,De-centralized data,Room temperature E1.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E1_04,room_temperature_E1_04,Ruimte temperatuur E1.04
+225,De-centralized data,Room temperature E1.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E1_05,room_temperature_E1_05,Ruimte temperatuur E1.05
+226,De-centralized data,Room temperature E1.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E1_06,room_temperature_E1_06,Ruimte temperatuur E1.06
+227,De-centralized data,Room temperature E1.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E1_07,room_temperature_E1_07,Ruimte temperatuur E1.07
+228,De-centralized data,Room temperature E1.11 Window Zone East,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E1_11_windowzoneeast,room_temperature_E1_11_windowzoneeast,Ruimte temperatuur E1.11 Raamzone Oost
+229,De-centralized data,Room temperature E1.12 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E1_12_Club,room_temperature_E1_12_Club,Ruimte temperatuur E1.12 Club
+230,De-centralized data,Room temperature E2.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E2_03,room_temperature_E2_03,Ruimte temperatuur E2.03
+231,De-centralized data,Room temperature E2.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E2_04,room_temperature_E2_04,Ruimte temperatuur E2.04
+232,De-centralized data,Room temperature E2.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E2_05,room_temperature_E2_05,Ruimte temperatuur E2.05
+233,De-centralized data,Room temperature E2.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E2_06,room_temperature_E2_06,Ruimte temperatuur E2.06
+234,De-centralized data,Room temperature E2.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E2_07,room_temperature_E2_07,Ruimte temperatuur E2.07
+235,De-centralized data,Room temperature E2.12 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E2_12_Club,room_temperature_E2_12_Club,Ruimte temperatuur E2.12 Club
+236,De-centralized data,Room temperature E3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E3_03,room_temperature_E3_03,Ruimte temperatuur E3.03
+237,De-centralized data,Room temperature E3.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E3_04,room_temperature_E3_04,Ruimte temperatuur E3.04
+238,De-centralized data,Room temperature E3.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E3_05,room_temperature_E3_05,Ruimte temperatuur E3.05
+239,De-centralized data,Room temperature E3.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E3_06,room_temperature_E3_06,Ruimte temperatuur E3.06
+240,De-centralized data,Room temperature E3.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E3_07,room_temperature_E3_07,Ruimte temperatuur E3.07
+241,De-centralized data,Room temperature E3.45 Window Zone East,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E3_45_windowzoneeast,room_temperature_E3_45_windowzoneeast,Ruimte temperatuur E3.45 Raamzone Oost
+242,De-centralized data,Room temperature E4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E4_03,room_temperature_E4_03,Ruimte temperatuur E4.03
+243,De-centralized data,Room temperature E4.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E4_04,room_temperature_E4_04,Ruimte temperatuur E4.04
+244,De-centralized data,Room temperature E4.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E4_05,room_temperature_E4_05,Ruimte temperatuur E4.05
+245,De-centralized data,Room temperature E4.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E4_06,room_temperature_E4_06,Ruimte temperatuur E4.06
+246,De-centralized data,Room temperature E4.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E4_07,room_temperature_E4_07,Ruimte temperatuur E4.07
+247,De-centralized data,Room temperature E4.11 Window Zone East,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_E4_11_windowzoneeast,room_temperature_E4_11_windowzoneeast,Ruimte temperatuur E4.11 Raamzone Oost
+248,De-centralized data,Room temperature F0.03 Dynamic archive,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F0_03_Dynamic_archive,room_temperature_F0_03_Dynamic_archive,Ruimte temperatuur F0.03 Dynamisch archief
+249,De-centralized data,Room temperature F0.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F0_05,room_temperature_F0_05,Ruimte temperatuur F0.05
+250,De-centralized data,Room temperature F0.09 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F0_09_windowzonewest,room_temperature_F0_09_windowzonewest,Ruimte temperatuur F0.09 Raamzone West
+251,De-centralized data,Room temperature F0.10 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F0_10_Club,room_temperature_F0_10_Club,Ruimte temperatuur F0.10 Club
+252,De-centralized data,Room temperature F1.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F1_03,room_temperature_F1_03,Ruimte temperatuur F1.03
+253,De-centralized data,Room temperature F1.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F1_04,room_temperature_F1_04,Ruimte temperatuur F1.04
+254,De-centralized data,Room temperature F1.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F1_05,room_temperature_F1_05,Ruimte temperatuur F1.05
+255,De-centralized data,Room temperature F1.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F1_06,room_temperature_F1_06,Ruimte temperatuur F1.06
+256,De-centralized data,Room temperature F1.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F1_07,room_temperature_F1_07,Ruimte temperatuur F1.07
+257,De-centralized data,Room temperature F1.09 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F1_09_windowzonewest,room_temperature_F1_09_windowzonewest,Ruimte temperatuur F1.09 Raamzone West
+258,De-centralized data,Room temperature F1.15 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F1_15_Club,room_temperature_F1_15_Club,Ruimte temperatuur F1.15 Club
+259,De-centralized data,Room temperature F2.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F2_03,room_temperature_F2_03,Ruimte temperatuur F2.03
+260,De-centralized data,Room temperature F2.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F2_04,room_temperature_F2_04,Ruimte temperatuur F2.04
+261,De-centralized data,Room temperature F2.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F2_05,room_temperature_F2_05,Ruimte temperatuur F2.05
+262,De-centralized data,Room temperature F2.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F2_06,room_temperature_F2_06,Ruimte temperatuur F2.06
+263,De-centralized data,Room temperature F2.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F2_07,room_temperature_F2_07,Ruimte temperatuur F2.07
+264,De-centralized data,Room temperature F2.09 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F2_09_windowzonewest,room_temperature_F2_09_windowzonewest,Ruimte temperatuur F2.09 Raamzone West
+265,De-centralized data,Room temperature F2.15 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F2_15_Club,room_temperature_F2_15_Club,Ruimte temperatuur F2.15 Club
+266,De-centralized data,Room temperature F3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F3_03,room_temperature_F3_03,Ruimte temperatuur F3.03
+267,De-centralized data,Room temperature F3.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F3_04,room_temperature_F3_04,Ruimte temperatuur F3.04
+268,De-centralized data,Room temperature F3.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F3_05,room_temperature_F3_05,Ruimte temperatuur F3.05
+269,De-centralized data,Room temperature F3.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F3_06,room_temperature_F3_06,Ruimte temperatuur F3.06
+270,De-centralized data,Room temperature F3.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F3_07,room_temperature_F3_07,Ruimte temperatuur F3.07
+271,De-centralized data,Room temperature F3.09 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F3_09_windowzonewest,room_temperature_F3_09_windowzonewest,Ruimte temperatuur F3.09 Raamzone West
+272,De-centralized data,Room temperature F3.15 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F3_15_Club,room_temperature_F3_15_Club,Ruimte temperatuur F3.15 Club
+273,De-centralized data,Room temperature F4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F4_03,room_temperature_F4_03,Ruimte temperatuur F4.03
+274,De-centralized data,Room temperature F4.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F4_04,room_temperature_F4_04,Ruimte temperatuur F4.04
+275,De-centralized data,Room temperature F4.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F4_05,room_temperature_F4_05,Ruimte temperatuur F4.05
+276,De-centralized data,Room temperature F4.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F4_06,room_temperature_F4_06,Ruimte temperatuur F4.06
+277,De-centralized data,Room temperature F4.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F4_07,room_temperature_F4_07,Ruimte temperatuur F4.07
+278,De-centralized data,Room temperature F4.09 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F4_09_windowzonewest,room_temperature_F4_09_windowzonewest,Ruimte temperatuur F4.09 Raamzone West
+279,De-centralized data,Room temperature F4.15 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F4_15_Club,room_temperature_F4_15_Club,Ruimte temperatuur F4.15 Club
+280,De-centralized data,Room temperature Facility Service F3.11,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_F3_11_Facility_Service,room_temperature_F3_11_Facility_Service,Ruimte temperatuur Facilitair Servicepunt F3.11
+281,De-centralized data,Room temperature G0.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G0_03,room_temperature_G0_03,Ruimte temperatuur G0.03
+282,De-centralized data,Room temperature G0.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G0_05,room_temperature_G0_05,Ruimte temperatuur G0.05
+283,De-centralized data,Room temperature G0.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G0_06,room_temperature_G0_06,Ruimte temperatuur G0.06
+284,De-centralized data,Room temperature G0.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G0_07,room_temperature_G0_07,Ruimte temperatuur G0.07
+285,De-centralized data,Room temperature G0.15 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G0_15_Club,room_temperature_G0_15_Club,Ruimte temperatuur G0.15 Club
+286,De-centralized data,Room temperature G0.20 Window Zone East,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G0_20_windowzoneeast,room_temperature_G0_20_windowzoneeast,Ruimte temperatuur G0.20 Raamzone Oost
+287,De-centralized data,Room temperature G1.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G1_03,room_temperature_G1_03,Ruimte temperatuur G1.03
+288,De-centralized data,Room temperature G1.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G1_04,room_temperature_G1_04,Ruimte temperatuur G1.04
+289,De-centralized data,Room temperature G1.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G1_05,room_temperature_G1_05,Ruimte temperatuur G1.05
+290,De-centralized data,Room temperature G1.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G1_06,room_temperature_G1_06,Ruimte temperatuur G1.06
+291,De-centralized data,Room temperature G1.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G1_07,room_temperature_G1_07,Ruimte temperatuur G1.07
+292,De-centralized data,Room temperature G1.20 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G1_20_Club,room_temperature_G1_20_Club,Ruimte temperatuur G1.20 Club
+293,De-centralized data,Room temperature G1.20 fly zone East,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G1_20_fly_zone_East,room_temperature_G1_20_fly_zone_East,Ruimte temperatuur G1.20 Raamzone Oost
+294,De-centralized data,Room temperature G2.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G2_03,room_temperature_G2_03,Ruimte temperatuur G2.03
+295,De-centralized data,Room temperature G2.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G2_04,room_temperature_G2_04,Ruimte temperatuur G2.04
+296,De-centralized data,Room temperature G2.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G2_05,room_temperature_G2_05,Ruimte temperatuur G2.05
+297,De-centralized data,Room temperature G2.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G2_06,room_temperature_G2_06,Ruimte temperatuur G2.06
+298,De-centralized data,Room temperature G2.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G2_07,room_temperature_G2_07,Ruimte temperatuur G2.07
+299,De-centralized data,Room temperature G2.15 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G2_15_Club,room_temperature_G2_15_Club,Ruimte temperatuur G2.15 Club
+300,De-centralized data,Room temperature G2.20 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G2_20_Club,room_temperature_G2_20_Club,Ruimte temperatuur G2.20 Club
+301,De-centralized data,Room temperature G2.20 Window Zone East,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G2_20_windowzoneeast,room_temperature_G2_20_windowzoneeast,Ruimte temperatuur G2.20 Raamzone Oost
+302,De-centralized data,Room temperature G3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G3_03,room_temperature_G3_03,Ruimte temperatuur G3.03
+303,De-centralized data,Room temperature G3.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G3_04,room_temperature_G3_04,Ruimte temperatuur G3.04
+304,De-centralized data,Room temperature G3.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G3_05,room_temperature_G3_05,Ruimte temperatuur G3.05
+305,De-centralized data,Room temperature G3.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G3_06,room_temperature_G3_06,Ruimte temperatuur G3.06
+306,De-centralized data,Room temperature G3.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G3_07,room_temperature_G3_07,Ruimte temperatuur G3.07
+307,De-centralized data,Room temperature G3.20 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G3_20_Club,room_temperature_G3_20_Club,Ruimte temperatuur G3.20 Club
+308,De-centralized data,Room temperature G3.20 Window Zone East,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G3_20_windowzoneeast,room_temperature_G3_20_windowzoneeast,Ruimte temperatuur G3.20 Raamzone Oost
+309,De-centralized data,Room temperature G4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G4_03,room_temperature_G4_03,Ruimte temperatuur G4.03
+310,De-centralized data,Room temperature G4.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G4_04,room_temperature_G4_04,Ruimte temperatuur G4.04
+311,De-centralized data,Room temperature G4.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G4_05,room_temperature_G4_05,Ruimte temperatuur G4.05
+312,De-centralized data,Room temperature G4.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G4_06,room_temperature_G4_06,Ruimte temperatuur G4.06
+313,De-centralized data,Room temperature G4.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G4_07,room_temperature_G4_07,Ruimte temperatuur G4.07
+314,De-centralized data,Room temperature G4.20 Club,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G4_20_Club,room_temperature_G4_20_Club,Ruimte temperatuur G4.20 Club
+315,De-centralized data,Room temperature G4.20 Window Zone East,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_G4_20_windowzoneeast,room_temperature_G4_20_windowzoneeast,Ruimte temperatuur G4.20 Raamzone Oost
+316,De-centralized data,Room temperature H0.02,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H0_02,room_temperature_H0_02,Ruimte temperatuur H0.02
+317,De-centralized data,Room temperature H0.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H0_03,room_temperature_H0_03,Ruimte temperatuur H0.03
+318,De-centralized data,Room temperature H0.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H0_04,room_temperature_H0_04,Ruimte temperatuur H0.04
+319,De-centralized data,Room temperature H0.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H0_05,room_temperature_H0_05,Ruimte temperatuur H0.05
+320,De-centralized data,Room temperature H0.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H0_06,room_temperature_H0_06,Ruimte temperatuur H0.06
+321,De-centralized data,Room temperature H0.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H0_07,room_temperature_H0_07,Ruimte temperatuur H0.07
+322,De-centralized data,Room temperature H0.10 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H0_10_windowzonewest,room_temperature_H0_10_windowzonewest,Ruimte temperatuur H0.10 Raamzone West
+323,De-centralized data,Room temperature meeting room H0.12,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H0_12_meetingroom,room_temperature_H0_12_meetingroom,Ruimte temperatuur H0.12 Spreekkamer
+324,De-centralized data,Room temperature meeting room H0.13,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H0_13_meetingroom,room_temperature_H0_13_meetingroom,Ruimte temperatuur H0.13 Spreekkamer
+325,De-centralized data,Room temperature meeting room H0.15,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H0_15_meetingroom,room_temperature_H0_15_meetingroom,Ruimte temperatuur H0.15 Spreekkamer
+326,De-centralized data,Room temperature H1.02,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H1_02,room_temperature_H1_02,Ruimte temperatuur H1.02
+327,De-centralized data,Room temperature H1.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H1_03,room_temperature_H1_03,Ruimte temperatuur H1.03
+328,De-centralized data,Room temperature H1.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H1_04,room_temperature_H1_04,Ruimte temperatuur H1.04
+329,De-centralized data,Room temperature H1.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H1_05,room_temperature_H1_05,Ruimte temperatuur H1.05
+330,De-centralized data,Room temperature H1.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H1_06,room_temperature_H1_06,Ruimte temperatuur H1.06
+331,De-centralized data,Room temperature H1.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H1_07,room_temperature_H1_07,Ruimte temperatuur H1.07
+332,De-centralized data,Room temperature meeting room H1.12,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H1_12_meetingroom,room_temperature_H1_12_meetingroom,Ruimte temperatuur H1.12 Spreekkamer
+333,De-centralized data,Room temperature meeting room H1.13,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H1_13_meetingroom,room_temperature_H1_13_meetingroom,Ruimte temperatuur H1.13 Spreekkamer
+334,De-centralized data,Room temperature meeting room H1.14,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H1_14_meetingroom,room_temperature_H1_14_meetingroom,Ruimte temperatuur H1.14 Spreekkamer
+335,De-centralized data,Room temperature meeting room H1.15,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H1_15_meetingroom,room_temperature_H1_15_meetingroom,Ruimte temperatuur H1.15 Spreekkamer
+336,De-centralized data,Room temperature H2.02,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H2_02,room_temperature_H2_02,Ruimte temperatuur H2.02
+337,De-centralized data,Room temperature H2.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H2_03,room_temperature_H2_03,Ruimte temperatuur H2.03
+338,De-centralized data,Room temperature H2.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H2_04,room_temperature_H2_04,Ruimte temperatuur H2.04
+339,De-centralized data,Room temperature H2.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H2_05,room_temperature_H2_05,Ruimte temperatuur H2.05
+340,De-centralized data,Room temperature H2.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H2_06,room_temperature_H2_06,Ruimte temperatuur H2.06
+341,De-centralized data,Room temperature H2.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H2_07,room_temperature_H2_07,Ruimte temperatuur H2.07
+342,De-centralized data,Room temperature H2.11 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H2_11_windowzonewest,room_temperature_H2_11_windowzonewest,Ruimte temperatuur H2.11 Raamzone West
+343,De-centralized data,Room temperature meeting room H3.12,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_12_meetingroom,room_temperature_H3_12_meetingroom,Ruimte temperatuur H2.12 Spreekkamer
+344,De-centralized data,Room temperature meeting room H3.13,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_13_meetingroom,room_temperature_H3_13_meetingroom,Ruimte temperatuur H2.13 Spreekkamer
+345,De-centralized data,Room temperature meeting room H3.14,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_14_meetingroom,room_temperature_H3_14_meetingroom,Ruimte temperatuur H2.14 Spreekkamer
+346,De-centralized data,Room temperature meeting room H3.15,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_15_meetingroom,room_temperature_H3_15_meetingroom,Ruimte temperatuur H2.15 Spreekkamer
+347,De-centralized data,Room temperature H3.02,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_02,room_temperature_H3_02,Ruimte temperatuur H3.02
+348,De-centralized data,Room temperature H3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_03,room_temperature_H3_03,Ruimte temperatuur H3.03
+349,De-centralized data,Room temperature H3.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_04,room_temperature_H3_04,Ruimte temperatuur H3.04
+350,De-centralized data,Room temperature H3.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_05,room_temperature_H3_05,Ruimte temperatuur H3.05
+351,De-centralized data,Room temperature H3.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_06,room_temperature_H3_06,Ruimte temperatuur H3.06
+352,De-centralized data,Room temperature H3.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_07,room_temperature_H3_07,Ruimte temperatuur H3.07
+353,De-centralized data,Room temperature H3.11 Window Zone West,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_11_windowzonewest,room_temperature_H3_11_windowzonewest,Ruimte temperatuur H3.11 Raamzone West
+354,De-centralized data,Room temperature meeting room H3.12,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_12_meetingroom,room_temperature_H3_12_meetingroom,Ruimte temperatuur H3.12 Spreekkamer
+355,De-centralized data,Room temperature meeting room H3.13,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_13_meetingroom,room_temperature_H3_13_meetingroom,Ruimte temperatuur H3.13 Spreekkamer
+356,De-centralized data,Room temperature meeting room H3.14,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_14_meetingroom,room_temperature_H3_14_meetingroom,Ruimte temperatuur H3.14 Spreekkamer
+357,De-centralized data,Room temperature meeting room H3.15,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H3_15_meetingroom,room_temperature_H3_15_meetingroom,Ruimte temperatuur H3.15 Spreekkamer
+358,De-centralized data,Room temperature H4.02,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H4_02,room_temperature_H4_02,Ruimte temperatuur H4.02
+359,De-centralized data,Room temperature H4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H4_03,room_temperature_H4_03,Ruimte temperatuur H4.03
+360,De-centralized data,Room temperature H4.04,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H4_04,room_temperature_H4_04,Ruimte temperatuur H4.04
+361,De-centralized data,Room temperature H4.05,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H4_05,room_temperature_H4_05,Ruimte temperatuur H4.05
+362,De-centralized data,Room temperature H4.06,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H4_06,room_temperature_H4_06,Ruimte temperatuur H4.06
+363,De-centralized data,Room temperature H4.07,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H4_07,room_temperature_H4_07,Ruimte temperatuur H4.07
+364,De-centralized data,Doctor's room temperature H4.12,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H4_12_doctor,room_temperature_H4_12_doctor,Ruimte temperatuur H4.12 Spreekkamer
+365,De-centralized data,Doctor's room temperature H4.13,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H4_13_doctor,room_temperature_H4_13_doctor,Ruimte temperatuur H4.13 Spreekkamer
+366,De-centralized data,Doctor's room temperature H4.14,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H4_14_doctor,room_temperature_H4_14_doctor,Ruimte temperatuur H4.14 Spreekkamer
+367,De-centralized data,Doctor's room temperature H4.15,C,Zaanstad - Town hall,zaanstad_townhall_bms__room_temperature_H4_15_doctor,room_temperature_H4_15_doctor,Ruimte temperatuur H4.15 Spreekkamer
+368,De-centralized data,Setpoint adjustment B3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_B3_03,temperature_setpoint_B3_03,Setpointverstelling B3.03
+369,De-centralized data,Setpoint adjustment B4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_B4_03,temperature_setpoint_B4_03,Setpointverstelling B4.03
+370,De-centralized data,Setpoint adjustment C1.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_C1_03,temperature_setpoint_C1_03,Setpointverstelling C1.03
+371,De-centralized data,Setpoint adjustment C1.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_C1_04,temperature_setpoint_C1_04,Setpointverstelling C1.04
+372,De-centralized data,Setpoint adjustment C2.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_C2_03,temperature_setpoint_C2_03,Setpointverstelling C2.03
+373,De-centralized data,Setpoint adjustment C2.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_C2_04,temperature_setpoint_C2_04,Setpointverstelling C2.04
+374,De-centralized data,Setpoint adjustment C3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_C3_03,temperature_setpoint_C3_03,Setpointverstelling C3.03
+375,De-centralized data,Setpoint adjustment C3.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_C3_04,temperature_setpoint_C3_04,Setpointverstelling C3.04
+376,De-centralized data,Setpoint adjustment C4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_C4_03,temperature_setpoint_C4_03,Setpointverstelling C4.03
+377,De-centralized data,Setpoint adjustment C4.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_C4_04,temperature_setpoint_C4_04,Setpointverstelling C4.04
+378,De-centralized data,Setpoint adjustment D0.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_D0_03,temperature_setpoint_D0_03,Setpointverstelling D0.03
+379,De-centralized data,Setpoint adjustment D0.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_D0_04,temperature_setpoint_D0_04,Setpointverstelling D0.04
+380,De-centralized data,Setpoint adjustment D1.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_D1_03,temperature_setpoint_D1_03,Setpointverstelling D1.03
+381,De-centralized data,Setpoint adjustment D1.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_D1_04,temperature_setpoint_D1_04,Setpointverstelling D1.04
+382,De-centralized data,Setpoint adjustment D2.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_D2_03,temperature_setpoint_D2_03,Setpointverstelling D2.03
+383,De-centralized data,Setpoint adjustment D2.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_D2_04,temperature_setpoint_D2_04,Setpointverstelling D2.04
+384,De-centralized data,Setpoint adjustment D3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_D3_03,temperature_setpoint_D3_03,Setpointverstelling D3.03
+385,De-centralized data,Setpoint adjustment D3.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_D3_04,temperature_setpoint_D3_04,Setpointverstelling D3.04
+386,De-centralized data,Setpoint adjustment D4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_D4_03,temperature_setpoint_D4_03,Setpointverstelling D4.03
+387,De-centralized data,Setpoint adjustment D4.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_D4_04,temperature_setpoint_D4_04,Setpointverstelling D4.04
+388,De-centralized data,Setpoint adjustment E0.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_E0_04,temperature_setpoint_E0_04,Setpointverstelling E0.04
+389,De-centralized data,Setpoint adjustment E1.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_E1_04,temperature_setpoint_E1_04,Setpointverstelling E1.04
+390,De-centralized data,Setpoint adjustment E3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_E3_03,temperature_setpoint_E3_03,Setpointverstelling E3.03
+391,De-centralized data,Setpoint adjustment E3.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_E3_04,temperature_setpoint_E3_04,Setpointverstelling E3.04
+392,De-centralized data,Setpoint adjustment E4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_E4_03,temperature_setpoint_E4_03,Setpointverstelling E4.03
+393,De-centralized data,Setpoint adjustment E4.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_E4_04,temperature_setpoint_E4_04,Setpointverstelling E4.04
+394,De-centralized data,Set point adjustment F0.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_F0_03,temperature_setpoint_F0_03,Setpointverstelling F0.03
+395,De-centralized data,Set point adjustment F1.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_F1_03,temperature_setpoint_F1_03,Setpointverstelling F1.03
+396,De-centralized data,Set point adjustment F1.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_F1_04,temperature_setpoint_F1_04,Setpointverstelling F1.04
+397,De-centralized data,Set point adjustment F2.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_F2_03,temperature_setpoint_F2_03,Setpointverstelling F2.03
+398,De-centralized data,Set point adjustment F2.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_F2_04,temperature_setpoint_F2_04,Setpointverstelling F2.04
+399,De-centralized data,Set point adjustment F3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_F3_03,temperature_setpoint_F3_03,Setpointverstelling F3.03
+400,De-centralized data,Set point adjustment F4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_F4_03,temperature_setpoint_F4_03,Setpointverstelling F4.03
+401,De-centralized data,Set point adjustment F4.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_F4_04,temperature_setpoint_F4_04,Setpointverstelling F4.04
+402,De-centralized data,Setpoint adjustment G1.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_G1_03,temperature_setpoint_G1_03,Setpointverstelling G1.03
+403,De-centralized data,Setpoint adjustment G1.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_G1_04,temperature_setpoint_G1_04,Setpointverstelling G1.04
+404,De-centralized data,Setpoint adjustment G2.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_G2_03,temperature_setpoint_G2_03,Setpointverstelling G2.03
+405,De-centralized data,Setpoint adjustment G2.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_G2_04,temperature_setpoint_G2_04,Setpointverstelling G2.04
+406,De-centralized data,Setpoint adjustment G3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_G3_03,temperature_setpoint_G3_03,Setpointverstelling G3.03
+407,De-centralized data,Setpoint adjustment G3.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_G3_04,temperature_setpoint_G3_04,Setpointverstelling G3.04
+408,De-centralized data,Setpoint adjustment G4.04,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_G4_04,temperature_setpoint_G4_04,Setpointverstelling G4.04
+409,De-centralized data,Setpoint adjustment H0.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_H0_03,temperature_setpoint_H0_03,Setpointverstelling H0.03
+410,De-centralized data,Setpoint adjustment H1.02,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_H1_02,temperature_setpoint_H1_02,Setpointverstelling H1.02
+411,De-centralized data,Setpoint adjustment H1.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_H1_03,temperature_setpoint_H1_03,Setpointverstelling H1.03
+412,De-centralized data,Setpoint adjustment H2.02,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_H2_02,temperature_setpoint_H2_02,Setpointverstelling H2.02
+413,De-centralized data,Setpoint adjustment H2.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_H2_03,temperature_setpoint_H2_03,Setpointverstelling H2.03
+414,De-centralized data,Setpoint adjustment H3.02,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_H3_02,temperature_setpoint_H3_02,Setpointverstelling H3.02
+415,De-centralized data,Setpoint adjustment H3.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_H3_03,temperature_setpoint_H3_03,Setpointverstelling H3.03
+416,De-centralized data,Setpoint adjustment H4.02,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_H4_02,temperature_setpoint_H4_02,Setpointverstelling H4.02
+417,De-centralized data,Setpoint adjustment H4.03,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_setpoint_H4_03,temperature_setpoint_H4_03,Setpointverstelling H4.03
+418,De-centralized data,Wind direction station,degree,Zaanstad - Town hall,zaanstad_townhall_bms_wind_direction,wind_direction,Wind richting weerstation
+419,De-centralized data,Wind speed station,m/s,Zaanstad - Town hall,zaanstad_townhall_bms_wind_speed,wind_speed,Wind snelheid weerstation
+420,De-centralized data,Groundwatersource incomming temp building,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_groundwatersource_buildingincomming,temperature_groundwatersource_buildingincomming,WKO Aanvoer temperatuur gebouw
+421,De-centralized data,Groundwatersource flow source,,Zaanstad - Town hall,zaanstad_townhall_bms_groundwatersource_sourceflow,groundwatersource_sourceflow,WKO Flow bron
+422,De-centralized data,Groundwatersource flow building,,Zaanstad - Town hall,zaanstad_townhall_bms_groundwatersource_buidlingflow,groundwatersource_buidlingflow,WKO Flow gebouwcircuit
+423,De-centralized data,Groundwatersource Temperature cold source TSA 1,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_groundwatersource_coldsource_TSA1,temperature_groundwatersource_coldsource_TSA1,WKO Temperatuur koudebron TSA 1
+424,De-centralized data,Groundwatersource Temperature hot source TSA2,C,Zaanstad - Town hall,zaanstad_townhall_bms_temperature_groundwatersource_hotsource_TSA2,temperature_groundwatersource_hotsource_TSA2,WKO Temperatuur warmebron TSA2

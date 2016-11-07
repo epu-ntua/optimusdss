@@ -1,0 +1,151 @@
+ID,WP Module,Data items,Units,City/Pilot,Stream,{Sensor},"Sant Cugat Theater csv names ""Etiqueta del Punto"""
+1,De-centralized data,Flow temperature chiller.,C,Sant Cugat - Theater,santcugat_theater_BMS_Flow_temperature_chiller_Production,Flow_temperature_chiller_Production,T.IMP.ENFR.
+2,De-centralized data,Heat Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Heat_Pump_Status_Dressing_Room,Heat_Pump_Status_Dressing_Room,EST.B.C.CL.6
+3,De-centralized data,Heat Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Heat_Pump_Status_Stage,Heat_Pump_Status_Stage,EST.B.C.CL.7
+4,De-centralized data,Cold Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Cold_Pump_Status_Stage,Cold_Pump_Status_Stage,EST.B.F.CL.7
+5,De-centralized data,Chiller cold pump principal distribution 1 Status .,%,Sant Cugat - Theater,santcugat_theater_BMS_Chiller_cold_pump_principal_distribution_1_Status_Production,Chiller_cold_pump_principal_distribution_1_Status_Production,EST.B.1.ENFR.
+6,De-centralized data,Fan return status of the climate control. (1/0 = ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Fan_return_status_of_the_climate_control_Stage,Fan_return_status_of_the_climate_control_Stage,EST.RET.CL.7
+7,De-centralized data,Chiller cold pump principal distribution 2 Status .,%,Sant Cugat - Theater,santcugat_theater_BMS_Chiller_cold_pump_principal_distribution_2_Status_Production,Chiller_cold_pump_principal_distribution_2_Status_Production,EST.B.2.ENFR.
+8,De-centralized data,Chiller Status,%,Sant Cugat - Theater,santcugat_theater_BMS_Chiller_Status_Production,Chiller_Status_Production,EST.ENFR.
+9,De-centralized data,Return temperature chiller.,C,Sant Cugat - Theater,santcugat_theater_BMS_Return_temperature_chiller_Production,Return_temperature_chiller_Production,T.RET.ENFR.
+10,De-centralized data,Fan status of the climate control. (1/0 = ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Fan_status_of_the_climate_control_Essays,Fan_status_of_the_climate_control_Essays,EST.CL.1
+11,De-centralized data,Metering Heat Pumps Electrical Energy  (Total ),C,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Heat_Pumps_Electrical_Energy_Production_Total,Metering_Heat_Pumps_Electrical_Energy_Production_Total,CONT.B.CALOR
+12,De-centralized data,Metering ALL Heat Pumps Electrical Energy  (Monthly ),C,Sant Cugat - Theater,santcugat_theater_BMS_Metering_ALL_Heat_Pumps_Electrical_Energy_Production,Metering_ALL_Heat_Pumps_Electrical_Energy_Production,CONT.1.TOT
+13,De-centralized data,Metering Heat Pumps Electrical Energy  (Daily ),C,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Heat_Pumps_Electrical_Energy_Production_Daily,Metering_Heat_Pumps_Electrical_Energy_Production_Daily,CONT.1.24H
+14,De-centralized data,Metering Fan Climate control Electrical Energy  (Total ),C,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Fan_Climate_control_Electrical_Energy_Production_Total,Metering_Fan_Climate_control_Electrical_Energy_Production_Total,CONT.E281_CLIMAS.TOT
+15,De-centralized data,Metering Fan Climate control Electrical Energy  (Monthly ),C,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Fan_Climate_control_Electrical_Energy_Production_Monthly,Metering_Fan_Climate_control_Electrical_Energy_Production_Monthly,CONT.2.MENS
+16,De-centralized data,Metering Fan Climate control Electrical Energy  (Daily ),C,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Fan_Climate_control_Electrical_Energy_Production_Daily,Metering_Fan_Climate_control_Electrical_Energy_Production_Daily,CONT.2.24H
+17,De-centralized data,Flow temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_Flow_temperature_Essays,Flow_temperature_Essays,T.IMP.CL.1
+18,De-centralized data,Return temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_Return_temperature_Essays,Return_temperature_Essays,T.RET.CL.1
+19,De-centralized data,Flow temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_Flow_temperature_Cocktail_bar,Flow_temperature_Cocktail_bar,T.IMP.CL.2
+20,De-centralized data,Return temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_Return_temperature_Cocktail_bar,Return_temperature_Cocktail_bar,T.RET.CL.2
+21,De-centralized data,Metering Gas meter Boiler 1  (Total ),m3,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Gas_meter_Boiler_1_Production_Total,Metering_Gas_meter_Boiler_1_Production_Total,G281_GAS CALD1.TOT
+22,De-centralized data,Metering Gas meter Boiler 1  (Monthly ),m3,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Gas_meter_Boiler_1_Production_Monthly,Metering_Gas_meter_Boiler_1_Production_Monthly,CONT.3.MENS
+23,De-centralized data,Flow temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_Flow_temperature_HALL,Flow_temperature_HALL,T.IMP.CL.3
+24,De-centralized data,Return temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_Return_temperature_HALL,Return_temperature_HALL,T.RET.CL.3
+25,De-centralized data,Metering Gas meter Boiler 1 (Daily ),m3,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Gas_meter_Boiler_1_Production_Daily,Metering_Gas_meter_Boiler_1_Production_Daily,CONT.3.24H
+26,De-centralized data,Flow temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_Flow_temperature_Amphitheater,Flow_temperature_Amphitheater,T.IMP.CL.4
+27,De-centralized data,Return temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_Return_temperature_Amphitheater,Return_temperature_Amphitheater,T.RET.CL.4
+28,De-centralized data,Metering Chiller Electrical Energy  (Total ),Kwh,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Chiller_Electrical_Energy_Production_Total,Metering_Chiller_Electrical_Energy_Production_Total,CONT.ENER.ENFRIADORA.TOT
+29,De-centralized data,Flow Temperature,C,Sant Cugat - Theater,santcugat_theater_BMS_Flow_Temperature_Control_Booths,Flow_Temperature_Control_Booths,T.IMP.CL.5
+30,De-centralized data,Return temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_Return_temperature_Control_Booths,Return_temperature_Control_Booths,T.RET.CL.5
+31,De-centralized data,MeteringChiller Electrical Energy  (Monthly ),C,Sant Cugat - Theater,santcugat_theater_BMS_MeteringChiller_Electrical_Energy_Production_Monthly,MeteringChiller_Electrical_Energy_Production_Monthly,CONT.4.MENS
+32,De-centralized data,Flow temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_Flow_temperature_Dressing_Room,Flow_temperature_Dressing_Room,T.IMP.CL.6
+33,De-centralized data,Return temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_Return_temperature_Dressing_Room,Return_temperature_Dressing_Room,T.RET.CL.6
+34,De-centralized data,MeteringChiller Electrical Energy  (Daily ),C,Sant Cugat - Theater,santcugat_theater_BMS_MeteringChiller_Electrical_Energy_Production_Daily,MeteringChiller_Electrical_Energy_Production_Daily,CONT.4.24H
+35,De-centralized data,Metering Gas meter Boiler 2 (Total ),m3,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Gas_meter_Boiler_2_Production_Total,Metering_Gas_meter_Boiler_2_Production_Total,G283_GAS_CALD_2.TOT
+36,De-centralized data,Metering Gas meter Boiler 2  (Monthly ),m3,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Gas_meter_Boiler_2_Production_Monthly,Metering_Gas_meter_Boiler_2_Production_Monthly,CONT.5.MENS
+37,De-centralized data,Gas meter Boiler 1 (Daily ),C,Sant Cugat - Theater,santcugat_theater_BMS_Gas_meter_Boiler_1_Stage,Gas_meter_Boiler_1_Stage,T.IMP.CL.7
+38,De-centralized data,Return temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_Return_temperature_Stage,Return_temperature_Stage,T.RET.CL.7
+39,De-centralized data,External temperature.,C,Sant Cugat - Theater,santcugat_theater_BMS_External_temperature_Outside,External_temperature_Outside,T.EXT
+40,De-centralized data,Metering Gas meter Boiler 2 (Daily ),m3,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Gas_meter_Boiler_2_Production_Daily,Metering_Gas_meter_Boiler_2_Production_Daily,CONT.5.24H
+41,De-centralized data,% Free cooling.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Free_cooling_Stage,%_Free_cooling_Stage,MOD.COMP.CL.7
+42,De-centralized data,% Free cooling.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Free_cooling_Amphitheater,%_Free_cooling_Amphitheater,MOD.COMP.CL.4
+43,De-centralized data,Metering Cold Pumps Electrical Energy  (Total ),Kwh,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Cold_Pumps_Electrical_Energy_Production_Total,Metering_Cold_Pumps_Electrical_Energy_Production_Total,CONT.6_E282.TOT
+44,De-centralized data,Metering Cold Pumps Electrical Energy  (Monthly ),Kwh,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Cold_Pumps_Electrical_Energy_Production_Monthly,Metering_Cold_Pumps_Electrical_Energy_Production_Monthly,CONT.6.MENS
+45,De-centralized data,Metering Cold Pumps Electrical Energy  (Daily ),Kwh,Sant Cugat - Theater,santcugat_theater_BMS_Metering_Cold_Pumps_Electrical_Energy_Production_Daily,Metering_Cold_Pumps_Electrical_Energy_Production_Daily,CONT.6.24H
+46,De-centralized data,% Heat opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Heat_opening_clamp_Essays,%_Heat_opening_clamp_Essays,V3V.CAL.CL.1
+47,De-centralized data,% Cold opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Cold_opening_clamp_Essays,%_Cold_opening_clamp_Essays,V3V.FRIO.CL.1
+48,De-centralized data,% Heat opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Heat_opening_clamp_Cocktail_bar,%_Heat_opening_clamp_Cocktail_bar,V3V.CAL.CL.2
+49,De-centralized data,% Cold opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Cold_opening_clamp_Cocktail_bar,%_Cold_opening_clamp_Cocktail_bar,V3V.FRIO.CL.2
+50,De-centralized data,% Heat opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Heat_opening_clamp_HALL,%_Heat_opening_clamp_HALL,V3V.CAL.CL.3
+51,De-centralized data,% Cold opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Cold_opening_clamp_HALL,%_Cold_opening_clamp_HALL,V3V.FRIO.CL.3
+52,De-centralized data,% Heat opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Heat_opening_clamp_Amphitheater,%_Heat_opening_clamp_Amphitheater,V3V.CAL.CL.4
+53,De-centralized data,% Cold opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Cold_opening_clamp_Amphitheater,%_Cold_opening_clamp_Amphitheater,V3V.FRIO.CL.4
+54,De-centralized data,% Heat opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Heat_opening_clamp_Control_Booths,%_Heat_opening_clamp_Control_Booths,V3V.CAL.CL.5
+55,De-centralized data,% Cold opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Cold_opening_clamp_Control_Booths,%_Cold_opening_clamp_Control_Booths,V3V.FRIO.CL.5
+56,De-centralized data,% Heat opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Heat_opening_clamp_Dressing_Room,%_Heat_opening_clamp_Dressing_Room,V3V.CAL.CL.6
+57,De-centralized data,% Cold opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Cold_opening_clamp_Dressing_Room,%_Cold_opening_clamp_Dressing_Room,V3V.FRIO.CL.6
+58,De-centralized data,% Heat opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Heat_opening_clamp_Stage,%_Heat_opening_clamp_Stage,V3V.CAL.CL.7
+59,De-centralized data,% Cold opening clamp.,%,Sant Cugat - Theater,santcugat_theater_BMS_%_Cold_opening_clamp_Stage,%_Cold_opening_clamp_Stage,V3V.FRIO.CL.7
+60,De-centralized data,Cold Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Cold_Pump_Status_Essays,Cold_Pump_Status_Essays,EST.B.F.CL.1
+61,De-centralized data,Cold Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Cold_Pump_Status_HALL,Cold_Pump_Status_HALL,EST.B.F.CL.3
+62,De-centralized data,Fan status of the climate control. (1/0 = ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Fan_status_of_the_climate_control_Control_Booths,Fan_status_of_the_climate_control_Control_Booths,EST.CL.5
+63,De-centralized data,Fan status of the climate control. (1/0 = ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Fan_status_of_the_climate_control_Cocktail_bar,Fan_status_of_the_climate_control_Cocktail_bar,EST.CL.2
+64,De-centralized data,Heat Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Heat_Pump_Status_Essays,Heat_Pump_Status_Essays,EST.B.C.CL.1
+65,De-centralized data,Heat Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Heat_Pump_Status_Cocktail_bar,Heat_Pump_Status_Cocktail_bar,EST.B.C.CL.2
+66,De-centralized data,Cold Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Cold_Pump_Status_Cocktail_bar,Cold_Pump_Status_Cocktail_bar,EST.B.F.CL.2
+67,De-centralized data,Fan status of the climate control. (1/0 = ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Fan_status_of_the_climate_control_HALL,Fan_status_of_the_climate_control_HALL,EST.CL.3
+68,De-centralized data,Flow fan status of the climate control. (1/0 = ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Flow_fan_status_of_the_climate_control_Amphitheater,Flow_fan_status_of_the_climate_control_Amphitheater,EST.IMP.CL.4
+69,De-centralized data,Heat Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Heat_Pump_Status_HALL,Heat_Pump_Status_HALL,EST.B.C.CL.3
+70,De-centralized data,Heat Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Heat_Pump_Status_Amphitheater,Heat_Pump_Status_Amphitheater,EST.B.C.CL.4
+71,De-centralized data,Cold Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Cold_Pump_Status_Amphitheater,Cold_Pump_Status_Amphitheater,EST.B.F.CL.4
+72,De-centralized data,Return fan status of the climate control. (1/0 = ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Return_fan_status_of_the_climate_control_Amphitheater,Return_fan_status_of_the_climate_control_Amphitheater,EST.RET.CL.4
+73,De-centralized data,Heat Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Heat_Pump_Status_Control_Booths,Heat_Pump_Status_Control_Booths,EST.B.C.CL.5
+74,De-centralized data,Cold Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Cold_Pump_Status_Control_Booths,Cold_Pump_Status_Control_Booths,EST.B.F.CL.5
+75,De-centralized data,Cold Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Cold_Pump_Status_Dressing_Room,Cold_Pump_Status_Dressing_Room,EST.B.F.CL.6
+76,De-centralized data,Fan status of the climate control. (1/0 = ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Fan_status_of_the_climate_control_Dressing_Room,Fan_status_of_the_climate_control_Dressing_Room,EST.CL.6
+77,De-centralized data,Flow fan status of the climate control. (1/0 = ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Flow_fan_status_of_the_climate_control_Stage,Flow_fan_status_of_the_climate_control_Stage,EST.IMP.CL.7
+78,De-centralized data,Flow temperature Boiler.,C,Sant Cugat - Theater,santcugat_theater_BMS_Flow_temperature_Boiler_Production,Flow_temperature_Boiler_Production,T.IMP.CAL
+79,De-centralized data,Flow temperature hot water.,C,Sant Cugat - Theater,santcugat_theater_BMS_Flow_temperature_hot_water_Production,Flow_temperature_hot_water_Production,T.IMP.ACS
+80,De-centralized data,Return temperature boiler.,C,Sant Cugat - Theater,santcugat_theater_BMS_Return_temperature_boiler_Production,Return_temperature_boiler_Production,T.RET.CAL
+81,De-centralized data,Hot Water Pump Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Hot_Water_Pump_Status_Production,Hot_Water_Pump_Status_Production,EST.B.ACS
+82,De-centralized data,Boiler Pump principal distribution 1  Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Boiler_Pump_principal_distribution_1_Status_Production,Boiler_Pump_principal_distribution_1_Status_Production,EST.B.CALD.1
+83,De-centralized data,Boiler  Pump principal distribution 2 Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Boiler_Pump_principal_distribution_2_Status_Production,Boiler_Pump_principal_distribution_2_Status_Production,EST.B.CALD.2
+84,De-centralized data,Boiler 1 Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Boiler_1_Status_Production,Boiler_1_Status_Production,EST.CALD.1
+85,De-centralized data,Boiler 2 Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Boiler_2_Status_Production,Boiler_2_Status_Production,EST.CALD.2
+86,De-centralized data,Boiler 1 Alarm .,ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Boiler_1_Alarm_Production,Boiler_1_Alarm_Production,AL.CALD.1
+87,De-centralized data,Boiler 2 Alarm.,ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Boiler_2_Alarm_Production,Boiler_2_Alarm_Production,AL.CALD.2
+88,De-centralized data,Heat setpoint CLIMA 1,C,Sant Cugat - Theater,santcugat_theater_BMS_Heat_setpoint_CLIMA_1_Essays,Heat_setpoint_CLIMA_1_Essays,CSG.CAL.T.CL.1
+89,De-centralized data,Cold setpoint CLIMA 1,C,Sant Cugat - Theater,santcugat_theater_BMS_Cold_setpoint_CLIMA_1_Essays,Cold_setpoint_CLIMA_1_Essays,CSG.FRIO.T.CL.1
+90,De-centralized data,Heat setpoint CLIMA 2,C,Sant Cugat - Theater,santcugat_theater_BMS_Heat_setpoint_CLIMA_2_Cocktail_bar,Heat_setpoint_CLIMA_2_Cocktail_bar,CSG.CAL.T.CL.2
+91,De-centralized data,Cold setpoint CLIMA 2,C,Sant Cugat - Theater,santcugat_theater_BMS_Cold_setpoint_CLIMA_2_Cocktail_bar,Cold_setpoint_CLIMA_2_Cocktail_bar,CSG.FRIO.T.CL.2
+92,De-centralized data,Heat setpoint CLIMA 3,C,Sant Cugat - Theater,santcugat_theater_BMS_Heat_setpoint_CLIMA_3_HALL,Heat_setpoint_CLIMA_3_HALL,CSG.CAL.T.CL.3
+93,De-centralized data,Cold setpoint CLIMA 3,C,Sant Cugat - Theater,santcugat_theater_BMS_Cold_setpoint_CLIMA_3_HALL,Cold_setpoint_CLIMA_3_HALL,CSG.FRIO.T.CL.3
+94,De-centralized data,Heat setpoint CLIMA 4,C,Sant Cugat - Theater,santcugat_theater_BMS_Heat_setpoint_CLIMA_4_Amphitheater,Heat_setpoint_CLIMA_4_Amphitheater,CSG.CAL.T.CL.4
+95,De-centralized data,Cold setpoint CLIMA 4,C,Sant Cugat - Theater,santcugat_theater_BMS_Cold_setpoint_CLIMA_4_Amphitheater,Cold_setpoint_CLIMA_4_Amphitheater,CSG.FRIO.T.CL.4
+96,De-centralized data,Heat setpoint CLIMA 5,C,Sant Cugat - Theater,santcugat_theater_BMS_Heat_setpoint_CLIMA_5_Control_Booths,Heat_setpoint_CLIMA_5_Control_Booths,CSG.CAL.T.CL.5
+97,De-centralized data,Cold setpoint CLIMA 5,C,Sant Cugat - Theater,santcugat_theater_BMS_Cold_setpoint_CLIMA_5_Control_Booths,Cold_setpoint_CLIMA_5_Control_Booths,CSG.FRIO.T.CL.5
+98,De-centralized data,Heat setpoint CLIMA 6,C,Sant Cugat - Theater,santcugat_theater_BMS_Heat_setpoint_CLIMA_6_Dressing_Room,Heat_setpoint_CLIMA_6_Dressing_Room,CSG.CAL.T.CL.6
+99,De-centralized data,Cold setpoint CLIMA 6,C,Sant Cugat - Theater,santcugat_theater_BMS_Cold_setpoint_CLIMA_6_Dressing_Room,Cold_setpoint_CLIMA_6_Dressing_Room,CSG.FRIO.T.CL.6
+100,De-centralized data,Heat setpoint CLIMA 7,C,Sant Cugat - Theater,santcugat_theater_BMS_Heat_setpoint_CLIMA_7_Stage,Heat_setpoint_CLIMA_7_Stage,CSG.CAL.T.CL.7
+101,De-centralized data,Cold setpoint CLIMA 7,C,Sant Cugat - Theater,santcugat_theater_BMS_Cold_setpoint_CLIMA_7_Stage,Cold_setpoint_CLIMA_7_Stage,CSG.FRIO.T.CL.7
+102,De-centralized data,Low point room temperature,C,Sant Cugat - Theater,santcugat_theater_BMS_Low_point_room_temperature_Amphitheater,Low_point_room_temperature_Amphitheater,T.AMB.1
+103,De-centralized data,Middle point room temperature,C,Sant Cugat - Theater,santcugat_theater_BMS_Middle_point_room_temperature_Amphitheater,Middle_point_room_temperature_Amphitheater,T.AMB.2
+104,De-centralized data,Highest point room temperature,C,Sant Cugat - Theater,santcugat_theater_BMS_Highest_point_room_temperature_Amphitheater,Highest_point_room_temperature_Amphitheater,T.AMB.3
+105,De-centralized data,Cold Pump distribution FAN COIL 1 Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Cold_Pump_distribution_FAN_COIL_1_Status_Production,Cold_Pump_distribution_FAN_COIL_1_Status_Production,EST.B.FRIO.FCOILS.1
+106,De-centralized data,Cold Pump distribution FAN COIL 2 Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Cold_Pump_distribution_FAN_COIL_2_Status_Production,Cold_Pump_distribution_FAN_COIL_2_Status_Production,EST.B.FRIO.FCOILS.2
+107,De-centralized data,Heat Pump distribution FAN COIL 1 Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Heat_Pump_distribution_FAN_COIL_1_Status_Production,Heat_Pump_distribution_FAN_COIL_1_Status_Production,EST.B.CAL.FCOILS.1
+108,De-centralized data,Heat Pump distribution FAN COIL 2 Status.,%,Sant Cugat - Theater,santcugat_theater_BMS_Heat_Pump_distribution_FAN_COIL_2_Status_Production,Heat_Pump_distribution_FAN_COIL_2_Status_Production,EST.B.CAL.FCOILS.2
+109,De-centralized data,Space Temperature Fan Coil,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Fan_Coil_Booking_office_FC21,Space_Temperature_Fan_Coil_Booking_office_FC21,Space Temperature 
+110,De-centralized data,Heating Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Heating_Demand_Fan_Coil_Booking_office_FC21,Heating_Demand_Fan_Coil_Booking_office_FC21,Heating Demand
+111,De-centralized data,Cooling Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Cooling_Demand_Fan_Coil_Booking_office_FC21,Cooling_Demand_Fan_Coil_Booking_office_FC21,Cooling Demand
+112,De-centralized data,Actual Fan Fan Coil (ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Actual_Fan_Fan_Coil_Booking_office_FC21,Actual_Fan_Fan_Coil_Booking_office_FC21,Actual Fan
+113,De-centralized data,Thermical Unit Energy Fan Coil (Virtual),Kwh,Sant Cugat - Theater,santcugat_theater_BMS_Thermical_Unit_Energy_Fan_Coil_Booking_office_FC21,Thermical_Unit_Energy_Fan_Coil_Booking_office_FC21,Unit Energy
+114,De-centralized data,Space Temperature Setpoint,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Setpoint_Booking_office_FC21,Space_Temperature_Setpoint_Booking_office_FC21,Remote Temperature
+115,De-centralized data,Space Temperature Fan Coil,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Fan_Coil_Hall_Offices_FC22,Space_Temperature_Fan_Coil_Hall_Offices_FC22,Space Temperature
+116,De-centralized data,Heating Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Heating_Demand_Fan_Coil_Hall_Offices_FC22,Heating_Demand_Fan_Coil_Hall_Offices_FC22,Heating Demand
+117,De-centralized data,Cooling Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Cooling_Demand_Fan_Coil_Hall_Offices_FC22,Cooling_Demand_Fan_Coil_Hall_Offices_FC22,Cooling Demand
+118,De-centralized data,Actual Fan Fan Coil (ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Actual_Fan_Fan_Coil_Hall_Offices_FC22,Actual_Fan_Fan_Coil_Hall_Offices_FC22,Actual Fan
+119,De-centralized data,Thermical Unit Energy Fan Coil (Virtual),Kwh,Sant Cugat - Theater,santcugat_theater_BMS_Thermical_Unit_Energy_Fan_Coil_Hall_Offices_FC22,Thermical_Unit_Energy_Fan_Coil_Hall_Offices_FC22,Unit Energy
+120,De-centralized data,Space Temperature Setpoint,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Setpoint_Hall_Offices_FC22,Space_Temperature_Setpoint_Hall_Offices_FC22,Remote Temperature
+121,De-centralized data,Space Temperature Fan Coil,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Fan_Coil_Passage_ground_floor_FC24,Space_Temperature_Fan_Coil_Passage_ground_floor_FC24,Space Temperature
+122,De-centralized data,Heating Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Heating_Demand_Fan_Coil_Passage_ground_floor_FC24,Heating_Demand_Fan_Coil_Passage_ground_floor_FC24,Heating Demand
+123,De-centralized data,Cooling Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Cooling_Demand_Fan_Coil_Passage_ground_floor_FC24,Cooling_Demand_Fan_Coil_Passage_ground_floor_FC24,Cooling Demand
+124,De-centralized data,Actual Fan Fan Coil (ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Actual_Fan_Fan_Coil_Passage_ground_floor_FC24,Actual_Fan_Fan_Coil_Passage_ground_floor_FC24,Actual Fan
+125,De-centralized data,Thermical Unit Energy Fan Coil (Virtual),Kwh,Sant Cugat - Theater,santcugat_theater_BMS_Thermical_Unit_Energy_Fan_Coil_Passage_ground_floor_FC24,Thermical_Unit_Energy_Fan_Coil_Passage_ground_floor_FC24,Unit Energy
+126,De-centralized data,Space Temperature Setpoint,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Setpoint_Passage_ground_floor_FC24,Space_Temperature_Setpoint_Passage_ground_floor_FC24,Remote Temperature
+127,De-centralized data,Space Temperature Fan Coil,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Fan_Coil_Technical_Offices_FC25,Space_Temperature_Fan_Coil_Technical_Offices_FC25,Space Temperature
+128,De-centralized data,Heating Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Heating_Demand_Fan_Coil_Technical_Offices_FC25,Heating_Demand_Fan_Coil_Technical_Offices_FC25,Heating Demand
+129,De-centralized data,Cooling Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Cooling_Demand_Fan_Coil_Technical_Offices_FC25,Cooling_Demand_Fan_Coil_Technical_Offices_FC25,Cooling Demand
+130,De-centralized data,Actual Fan Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Actual_Fan_Fan_Coil_Technical_Offices_FC25,Actual_Fan_Fan_Coil_Technical_Offices_FC25,Actual Fan
+131,De-centralized data,Unit Energy Fan Coil,Kwh,Sant Cugat - Theater,santcugat_theater_BMS_Unit_Energy_Fan_Coil_Technical_Offices_FC25,Unit_Energy_Fan_Coil_Technical_Offices_FC25,Unit Energy
+132,De-centralized data,Space Temperature Setpoint,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Setpoint_Technical_Offices_FC25,Space_Temperature_Setpoint_Technical_Offices_FC25,Remote Temperature
+133,De-centralized data,Space Temperature Fan Coil,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Fan_Coil_Office_FC26,Space_Temperature_Fan_Coil_Office_FC26,Space Temperature
+134,De-centralized data,Heating Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Heating_Demand_Fan_Coil_Office_FC26,Heating_Demand_Fan_Coil_Office_FC26,Heating Demand
+135,De-centralized data,Cooling Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Cooling_Demand_Fan_Coil_Office_FC26,Cooling_Demand_Fan_Coil_Office_FC26,Cooling Demand
+136,De-centralized data,Actual Fan Fan Coil (ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Actual_Fan_Fan_Coil_Office_FC26,Actual_Fan_Fan_Coil_Office_FC26,Actual Fan
+137,De-centralized data,Thermical Unit Energy Fan Coil (Virtual),Kwh,Sant Cugat - Theater,santcugat_theater_BMS_Thermical_Unit_Energy_Fan_Coil_Office_FC26,Thermical_Unit_Energy_Fan_Coil_Office_FC26,Unit Energy
+138,De-centralized data,Space Temperature Setpoint,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Setpoint_Office_FC26,Space_Temperature_Setpoint_Office_FC26,Remote Temperature
+139,De-centralized data,Space Temperature Fan Coil,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Fan_Coil_Passage_first_floor_FC27,Space_Temperature_Fan_Coil_Passage_first_floor_FC27,Space Temperature
+140,De-centralized data,Heating Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Heating_Demand_Fan_Coil_Passage_first_floor_FC27,Heating_Demand_Fan_Coil_Passage_first_floor_FC27,Heating Demand
+141,De-centralized data,Cooling Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Cooling_Demand_Fan_Coil_Passage_first_floor_FC27,Cooling_Demand_Fan_Coil_Passage_first_floor_FC27,Cooling Demand
+142,De-centralized data,Actual Fan Fan Coil (ON/OFF),ON/OFF,Sant Cugat - Theater,santcugat_theater_BMS_Actual_Fan_Fan_Coil_Passage_first_floor_FC27,Actual_Fan_Fan_Coil_Passage_first_floor_FC27,Actual Fan
+143,De-centralized data,Thermical Unit Energy Fan Coil (Virtual),Kwh,Sant Cugat - Theater,santcugat_theater_BMS_Thermical_Unit_Energy_Fan_Coil_Passage_first_floor_FC27,Thermical_Unit_Energy_Fan_Coil_Passage_first_floor_FC27,Unit Energy
+144,De-centralized data,Space Temperature Setpoint,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Setpoint_Passage_first_floor_FC27,Space_Temperature_Setpoint_Passage_first_floor_FC27,Remote Temperature
+145,De-centralized data,Space Temperature Fan Coil,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Fan_Coil_Passage_stage_fc28,Space_Temperature_Fan_Coil_Passage_stage_fc28,Space Temperature
+146,De-centralized data,Heating Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Heating_Demand_Fan_Coil_Passage_stage_fc28,Heating_Demand_Fan_Coil_Passage_stage_fc28,Heating Demand
+147,De-centralized data,Cooling Demand Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Cooling_Demand_Fan_Coil_Passage_stage_fc28,Cooling_Demand_Fan_Coil_Passage_stage_fc28,Cooling Demand
+148,De-centralized data,Actual Fan Fan Coil,%,Sant Cugat - Theater,santcugat_theater_BMS_Actual_Fan_Fan_Coil_Passage_stage_fc28,Actual_Fan_Fan_Coil_Passage_stage_fc28,Actual Fan
+149,De-centralized data,Unit Energy Fan Coil,Kwh,Sant Cugat - Theater,santcugat_theater_BMS_Unit_Energy_Fan_Coil_Passage_stage_fc28,Unit_Energy_Fan_Coil_Passage_stage_fc28,Unit Energy
+150,De-centralized data,Space Temperature Setpoint,C,Sant Cugat - Theater,santcugat_theater_BMS_Space_Temperature_Setpoint_Passage_stage_fc28,Space_Temperature_Setpoint_Passage_stage_fc28,Remote Temperature

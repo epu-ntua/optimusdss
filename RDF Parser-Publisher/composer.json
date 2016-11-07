@@ -1,0 +1,16 @@
+{
+	"name" : "Sot/optimus",
+	"require": {
+		"php" : ">=5.5.9",
+        "symfony/console": "~2.3@dev",
+        "symfony/finder": "~2.1",
+        "symfony/process": "~2.1@dev",
+        "illuminate/container": "~5.1.6",
+        "illuminate/database": "~5.1.6"
+    },
+    "autoload": {
+		"classmap": [
+		  "./"
+		]
+	}
+}

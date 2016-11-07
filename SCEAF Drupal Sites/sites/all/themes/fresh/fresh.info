@@ -1,0 +1,45 @@
+name = Fresh
+description = Fresh is a premium Drupal 7 theme. Developed by <a href="http://www.devsaran.com">Devsaran.com</a>.
+package = Core
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = style.css
+stylesheets[all][] = nivo-slider.css
+scripts[] = js/superfish.js
+scripts[] = js/jquery.nivo.slider.pack.js
+scripts[] = js/slider.js
+scripts[] = js/sfmenu.js
+regions[sidebar_first]  = First Sidebar
+regions[header]         = Header
+regions[highlighted]    = Highlighted
+regions[content]        = Content
+regions[footer_first]   = First Footer
+regions[footer_second]  = Second Footer
+regions[footer_third]   = Third Footer
+regions[footer_fourth]  = Fourth Footer
+regions[footer]         = Footer
+features[] = logo
+features[] = name
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = comment_user_verification
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu
+settings[social_links]  = 1
+settings[twitter_username]   = 'saranquardz'
+settings[facebook_username]  = 'saran.tech'
+settings[breadcrumbs]  = 1
+settings[slideshow_display]  = 1
+settings[slide1_url]  = "node/1"
+settings[slide2_url]  = "node/2"
+settings[slide3_url]  = "node/3"
+settings[footer_copyright]  = 1
+settings[footer_credits]    = 1
+
+; Information added by Drupal.org packaging script on 2014-05-04
+version = "7.x-1.6"
+core = "7.x"
+project = "fresh"
+datestamp = "1399192428"
+

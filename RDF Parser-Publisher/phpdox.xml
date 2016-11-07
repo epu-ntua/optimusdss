@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<phpdox xmlns="http://xml.phpdox.net/config" silent="false">
+  <project name="Building Sense (Client)" source="${basedir}/src" workdir="${basedir}/build/phpdox/xml">
+    <collector backend="parser">
+        <exclude mask="*vendor*" />
+    </collector>
+    <generator output="${basedir}/build/docs">
+    	<enrich base="${basedir}/build">
+            <source type="build" />
+            <source type="git">
+            	<git binary="/usr/local/git/bin/git" />
+                <history enabled="true" limit="15" />
+            </source>
+            <source type="checkstyle">
+                <file name="logs/checkstyle.xml" />
+            </source>
+            <!-- alternative checkstyler to support phpcs xml output -->
+            <!-- <source type="phpcs" /> -->
+            <source type="pmd">
+                <file name="logs/pmd.xml" />
+            </source>
+            <source type="phploc">
+                <file name="logs/phploc.xml" />
+            </source>
+            <source type="phpunit">
+                <coverage path="logs/coverage/xml" />
+            </source>
+        </enrich>
+      	<build engine="html" enabled="true" output="html"/>
+        <build engine="xml" enabled="true" output="xml" />
+        <!-- <build engine="graph" enabled="true" output="graph">
+            <dot executable="@phptools.phpdox.dot@" options="" render="true" format="png" />
+        </build> -->
+    </generator>
+  </project>
+</phpdox>

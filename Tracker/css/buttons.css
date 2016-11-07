@@ -1,0 +1,42 @@
+/*
+Giannis Tsapelas 2015
+*/
+
+#buttonDiv {
+    margin-bottom: 5%;
+}
+
+#nextBtn{
+    background-color: teal;
+    color: white;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+#backBtn{
+    background-color: teal;
+    color: white;
+    margin-bottom: 20px;
+}
+
+#cancelBtn{
+    background-color: teal;
+    color: white;
+    float: right;
+    margin-right: 33px;
+    margin-bottom: 20px;
+}
+
+#changeActionsBtn{
+    margin-top: 10px;
+    margin-left: 80%;
+}
+
+#newActionBtn{
+    background-color: teal;
+    color: white;
+    margin-left: 33px;
+    margin-bottom: 20px;
+    min-height: 30px;
+    min-width: 100px;
+}

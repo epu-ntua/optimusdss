@@ -1,0 +1,98 @@
+/*
+Giannis Tsapelas 2015
+*/
+
+h1{
+    color: #054993;
+    font-size: 20pt;
+    border-bottom-style: double;
+    width: 70%;
+}
+
+/*.form-horizontal  .control-label{
+    text-align: left;
+    padding-left: 4%;
+}*/
+
+/* Add some space between input groups */
+.dataDiv{
+    margin-bottom: 7%;
+}
+
+
+#guideInsert .panel, #guideBuilding .panel, #guideOverview .panel {
+    text-align: center;
+    background-color: #ccc;
+    padding: 0;
+    margin:0;
+}
+
+#guideInsert .guideLabel, #guideBuilding .guideLabel, #guideOverview .guideLabel{
+    border-style: none;
+    text-align: right;
+}
+
+#guideInsert .guideLabelBody, #guideBuilding .guideLabelBody, #guideOverview .guideLabelBody{
+    background-color: white;
+    color: #054993;
+    font-weight: bold;
+    border-style: none;
+}
+
+#guideBuilding {
+    margin-top: 20px;
+}
+
+#guideOverview {
+    margin-top: 20px;
+}
+
+
+
+#guideInsert .panel-body, #guideBuilding .panel-body, #guideOverview .panel-body{
+    min-height: 30px;
+    max-height: 30px;
+    padding: 4%;
+}
+
+
+/* create an arrow that points right */
+#guideInsert .arrow-right, #guideBuilding .arrow-right {
+        display: inline-block;
+        width: 15px;
+	border-bottom: 15px solid transparent;   /* left arrow slant */
+	border-top: 15px solid transparent;  /* right arrow slant */
+	border-left: 15px solid #054993;  /* bottom, add background color here */
+	font-size: 0;
+	line-height: 0;
+        background-color: white;
+        height: 32px;
+        margin-left: 5px;
+        margin-right: 5px;
+}
+
+
+
+#guideCategory ul a{
+    padding-right: 15px;  
+    display: block;
+    line-height: 35px;  
+    text-decoration: none;   
+    text-align: center;  
+    font-family: Arial, "Helvetica", sans-serif;  
+    font-size: 15px;
+    font-weight: bold;
+    color: #888888;
+}
+
+#guideCategory li{
+    float: left;
+}
+
+#guideCategory ul{
+    list-style-type: none;  
+    height: 35px; 
+    width: 100%;
+    margin-top: 20px;
+    padding: 0;
+}

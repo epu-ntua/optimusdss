@@ -1,0 +1,21 @@
+{
+    "chmod": "0755",
+    "finder": [{
+        "name": "*.php",
+        "notName": "configuration-*.php",
+        "exclude": [
+            "Test",
+            "Tests",
+            "test",
+            "tests"
+        ],
+        "in": [
+            "src",
+            "vendor"
+        ]
+    }],
+    "git-version": "package_version",
+    "main": "optimus",
+    "output": "sot_optimus.phar",
+    "stub": true
+}

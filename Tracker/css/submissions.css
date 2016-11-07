@@ -1,0 +1,22 @@
+.table {
+    width: 100%;
+}
+
+tr{
+    display: table-row;
+}
+
+.table thead th {
+    height: 40px;
+    color: white;
+}
+
+
+.table thead {
+     background-color: #054993;
+}
+
+.table-hover tbody tr:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}

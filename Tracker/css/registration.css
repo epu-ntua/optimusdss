@@ -1,0 +1,84 @@
+#workspace{
+    text-align: center;
+}
+
+
+.registration_form {
+    width: 70%;
+    margin:1% auto;
+    padding:14px;
+}
+
+.registration_form label {
+width: 10em;
+float: left;
+margin-right: 0.5em;
+display: block
+}
+
+.registration_form .submit {//Code to place the submit putton
+float:right;
+}
+
+.registration_form fieldset {
+    text-align: left;
+    border:2px solid #054993;//with a blue border
+    width: 500px;//of width 500 pixel
+}
+
+.registration_form legend {
+color: #fff;
+background: #054993;
+font-family: Helvetica, Arial, Sans-Serif;
+font-size: 15px;
+border: 1px solid #781351;
+padding: 2px 6px
+}
+
+.registration_form .elements {
+padding:20px;//space between each form element
+}
+
+.registration_form p {
+    text-align: center;
+    border-bottom:1px solid #B7DDF2;
+    color:#666666;
+    font-size:11px;
+    margin-bottom:20px;
+    padding-bottom:10px;
+}
+
+
+.success {
+	border: 1px solid;
+	margin: 0 auto;
+	padding:10px 5px 10px 60px;
+	background-repeat: no-repeat;
+	background-position: 10px center;
+    
+     width:450px;
+     color: #4F8A10;
+	background-color: #DFF2BF;
+	background-image:url('images/success.png');
+     
+}
+
+
+
+ .errormsgbox {
+	border: 1px solid;
+	margin: 5px auto;
+	padding:10px 5px 10px 60px;
+	background-repeat: no-repeat;
+	background-position: 10px center;
+
+        width:450px;
+    	color: #D8000C;
+	background-color: #FFBABA;
+	background-image: url('images/error.png');
+     
+}
+
+#registrationInputs{
+    text-align: center;
+}

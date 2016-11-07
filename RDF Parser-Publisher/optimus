@@ -1,0 +1,30 @@
+#!/usr/bin/env php
+<?php
+
+require_once __DIR__. "/src/configuration.php";
+require_once __DIR__. "/vendor/autoload.php";
+require __DIR__. "/src/start.php";
+require_once __DIR__. "/src/config/database.php";
+
+$link = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD);
+mysqli_select_db($link, DB_NAME);
+
+use Sot\optimus\Command;
+use Symfony\Component\Console\Application;
+
+//global $DataImporter;
+
+//print_r($app);
+
+$app = new Illuminate\Container\Container;
+
+$application = new Application('Optimus', '@package_version@');
+$application->add(new Command\RDFPublisherCommand());
+$application->add(new Command\XMLImporterCommand());
+$application->add(new Command\CSVAuditoriImporterCommand());
+$application->add(new Command\CSVZaanstandImporterCommand());
+$application->add(new Command\TridiumImporterCommand());
+$application->add(new Command\CSVMappingImporterCommand());
+$application->add(new Command\CSVSavonaImporterCommand());
+$application->add(new Command\SQLiteZaanstandImporterCommand());
+$application->run();

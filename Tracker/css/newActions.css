@@ -1,0 +1,49 @@
+h1{
+    line-height: 35px;  
+    text-align: left;  
+    font-family: Arial, "Helvetica", sans-serif;  
+    font-size: 20px;
+    font-weight: bold;
+    color: #054993;
+    border-bottom-style: double;
+    width: 65%;
+    margin-left: 30px;
+}
+
+textarea{
+    border: solid 2px #dcdcdc;
+    transition: box-shadow 0.3s, border 0.3s;
+    border-radius: 6px;
+    
+    padding-left: 4px;
+    background-color: #eee;
+}
+
+input, select{
+    border: solid 2px #dcdcdc;
+    transition: box-shadow 0.3s, border 0.3s;
+    border-radius: 6px;
+    width: 100px;
+    height: 25px;
+    padding-left: 4px;
+    background-color: #eee;
+}
+
+select{
+    width: 108px;
+    height: 30px;
+}
+
+
+input:focus, input.focus, select:focus, select.focus {
+    box-shadow: 0px 0px 10px 2px rgba(16,28,107,0.5);
+    -webkit-box-shadow: 0px 0px 10px 2px rgba(16,28,107,0.5);
+    -moz-box-shadow: 0px 0px 10px 2px rgba(16,28,107,0.5);
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    -moz-transition: padding .25s; 
+    -webkit-transition: padding .25s; 
+    -o-transition: padding .25s;
+    transition: padding .25s;
+}

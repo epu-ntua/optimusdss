@@ -1,0 +1,56 @@
+ID,WP Module,Data items,Units,City/Pilot,Stream,{Sensor},file name header
+1,De-centralized data,Temperature of zone 1,°C,Savona - School,savona_school_bms_Temperature_zone_1,Temperature_zone_1,Temperatura 1
+2,De-centralized data,Temperature of zone 2,°C,Savona - School,savona_school_bms_Temperature_zone_2,Temperature_zone_2,Temperatura 2
+3,De-centralized data,Temperature of zone 3,°C,Savona - School,savona_school_bms_Temperature_zone_3,Temperature_zone_3,Temperatura 3
+4,De-centralized data,Temperature of zone 4,°C,Savona - School,savona_school_bms_Temperature_zone_4,Temperature_zone_4,Temperatura 4
+5,De-centralized data,Temperature of zone 5,°C,Savona - School,savona_school_bms_Temperature_zone_5,Temperature_zone_5,Temperatura 5
+6,De-centralized data,Temperature of zone 6,°C,Savona - School,savona_school_bms_Temperature_zone_6,Temperature_zone_6,Temperatura 6
+7,De-centralized data,Radiation on the PV field,W/m2,Savona - School,savona_school_bms_Radiation_on_the_PV_field,Radiation_on_the_PV_field,Solarimetro
+8,De-centralized data,Main switchboard - active power phase 1,W,Savona - School,savona_school_bms_Main_switchboard_active_power_phase_1,Main_switchboard_active_power_phase_1,Generale - P1
+9,De-centralized data,Main switchboard - active power phase 2,W,Savona - School,savona_school_bms_Main_switchboard_active_power_phase_2,Main_switchboard_active_power_phase_2,Generale - P2
+10,De-centralized data,Main switchboard - active power phase 3,W,Savona - School,savona_school_bms_Main_switchboard_active_power_phase_3,Main_switchboard_active_power_phase_3,Generale - P3
+11,De-centralized data,Main switchboard - energy imported from the network,Wh,Savona - School,savona_school_bms_Main_switchboard_energy_imported,Main_switchboard_energy_imported,Generale - Energia attiva
+12,De-centralized data,Main switchboard - energy exported to the network ,Wh,Savona - School,savona_school_bms_Main_switchboard_energy_exported,Main_switchboard_energy_exported,Generale - Energia attiva esportata
+13,De-centralized data,Pertini main feeder - active power phase 1,W,Savona - School,savona_school_bms_Pertini_main_feeder_active_power_phase_1,Pertini_main_feeder_active_power_phase_1,Generale Pertini - P1
+14,De-centralized data,Pertini main feeder - active power phase 2,W,Savona - School,savona_school_bms_Pertini_main_feeder_active_power_phase_2,Pertini_main_feeder_active_power_phase_2,Generale Pertini - P2
+15,De-centralized data,Pertini main feeder - active power phase 3,W,Savona - School,savona_school_bms_Pertini_main_feeder_active_power_phase_3,Pertini_main_feeder_active_power_phase_3,Generale Pertini - P3
+16,De-centralized data,Pertini main feeder - energy imported,Wh,Savona - School,savona_school_bms_Pertini_main_feeder_energy_imported,Pertini_main_feeder_energy_imported,Generale Pertini - Energia attiva
+17,De-centralized data,Pertini main feeder - energy exported,Wh,Savona - School,savona_school_bms_Pertini_main_feeder_energy_exported,Pertini_main_feeder_energy_exported,Generale Pertini - Energia attiva esportata
+18,De-centralized data,Colombo main feeder - active power phase 1,W,Savona - School,savona_school_bms_Colombo_main_feeder_active_power_phase_1,Colombo_main_feeder_active_power_phase_1,Generale Colombo - P1
+19,De-centralized data,Colombo main feeder - active power phase 2,W,Savona - School,savona_school_bms_Colombo_main_feeder_active_power_phase_2,Colombo_main_feeder_active_power_phase_2,Generale Colombo - P2
+20,De-centralized data,Colombo main feeder - active power phase 3,W,Savona - School,savona_school_bms_Colombo_main_feeder_active_power_phase_3,Colombo_main_feeder_active_power_phase_3,Generale Colombo - P3
+21,De-centralized data,Colombo main feeder - energy imported,Wh,Savona - School,savona_school_bms_Colombo_main_feeder_energy_imported,Colombo_main_feeder_energy_imported,Generale Colombo - Energia attiva
+22,De-centralized data,Colombo main feeder - energy exported,Wh,Savona - School,savona_school_bms_Colombo_main_feeder_energy_exported,Colombo_main_feeder_energy_exported,Generale Colombo - Energia attiva esportata
+23,De-centralized data,Gym feeder - active power phase 1,W,Savona - School,savona_school_bms_Gym_feeder_active_power_phase_1,Gym_feeder_active_power_phase_1,Palestra - P1
+24,De-centralized data,Gym feeder - active power phase 2,W,Savona - School,savona_school_bms_Gym_feeder_active_power_phase_2,Gym_feeder_active_power_phase_2,Palestra - P2
+25,De-centralized data,Gym feeder - active power phase 3,W,Savona - School,savona_school_bms_Gym_feeder_active_power_phase_3,Gym_feeder_active_power_phase_3,Palestra - P3
+26,De-centralized data,Gym feeder - energy imported,Wh,Savona - School,savona_school_bms_Gym_feeder_energy_imported,Gym_feeder_energy_imported,Palestra - Energia attiva
+27,De-centralized data,Gym feeder - energy exported,Wh,Savona - School,savona_school_bms_Gym_feeder_energy_exported,Gym_feeder_energy_exported,Palestra - Energia attiva esportata
+28,De-centralized data,PC Room feeder - active power phase 1,W,Savona - School,savona_school_bms_PC_Room_feeder_active_power_phase_1,PC_Room_feeder_active_power_phase_1,Sala PC - P1
+29,De-centralized data,PC Room feeder - active power phase 2,W,Savona - School,savona_school_bms_PC_Room_feeder_active_power_phase_2,PC_Room_feeder_active_power_phase_2,Sala PC - P2
+30,De-centralized data,PC Room feeder - active power phase 3,W,Savona - School,savona_school_bms_PC_Room_feeder_active_power_phase_3,PC_Room_feeder_active_power_phase_3,Sala PC - P3
+31,De-centralized data,PC Room feeder - energy imported,Wh,Savona - School,savona_school_bms_PC_Room_feeder_energy_imported,PC_Room_feeder_energy_imported,Sala PC - Energia attiva
+32,De-centralized data,PC Room feeder - energy exported,Wh,Savona - School,savona_school_bms_PC_Room_feeder_energy_exported,PC_Room_feeder_energy_exported,Sala PC - Energia attiva esportata
+33,De-centralized data,Thermal station feeder - active power phase 1,W,Savona - School,savona_school_bms_Thermal_station_feeder_active_power_phase_1,Thermal_station_feeder_active_power_phase_1,Centrale termica - P1
+34,De-centralized data,Thermal station feeder - active power phase 2,W,Savona - School,savona_school_bms_Thermal_station_feeder_active_power_phase_2,Thermal_station_feeder_active_power_phase_2,Centrale termica - P2
+35,De-centralized data,Thermal station feeder - active power phase 3,W,Savona - School,savona_school_bms_Thermal_station_feeder_active_power_phase_3,Thermal_station_feeder_active_power_phase_3,Centrale termica - P3
+36,De-centralized data,Thermal station feeder - energy imported,Wh,Savona - School,savona_school_bms_Thermal_station_feeder_energy_imported,Thermal_station_feeder_energy_imported,Centrale termica - Energia attiva
+37,De-centralized data,Thermal station feeder - energy exported,Wh,Savona - School,savona_school_bms_Thermal_station_feeder_energy_exported,Thermal_station_feeder_energy_exported,Centrale termica - Energia attiva esportata
+38,De-centralized data,Conditioners - active power phase 1,W,Savona - School,savona_school_bms_Conditioners_active_power_phase_1,Conditioners_active_power_phase_1,Condizionatori - P1
+39,De-centralized data,Conditioners - active power phase 2,W,Savona - School,savona_school_bms_Conditioners_active_power_phase_2,Conditioners_active_power_phase_2,Condizionatori - P2
+40,De-centralized data,Conditioners - active power phase 3,W,Savona - School,savona_school_bms_Conditioners_active_power_phase_3,Conditioners_active_power_phase_3,Condizionatori - P3
+41,De-centralized data,Conditioners - energy imported,Wh,Savona - School,savona_school_bms_Conditioners_energy_imported,Conditioners_energy_imported,Condizionatori - Energia attiva
+42,De-centralized data,Conditioners - energy exported,Wh,Savona - School,savona_school_bms_Conditioners_energy_exported,Conditioners_energy_exported,Condizionatori - Energia attiva esportata
+43,De-centralized data,Canteeen feeder - active power phase 1,W,Savona - School,savona_school_bms_Canteeen_feeder_active_power_phase_1,Canteeen_feeder_active_power_phase_1,Mensa - P1
+44,De-centralized data,Canteeen feeder - active power phase 2,W,Savona - School,savona_school_bms_Canteeen_feeder_active_power_phase_2,Canteeen_feeder_active_power_phase_2,Mensa - P2
+45,De-centralized data,Canteeen feeder - active power phase 3,W,Savona - School,savona_school_bms_Canteeen_feeder_active_power_phase_3,Canteeen_feeder_active_power_phase_3,Mensa - P3
+46,De-centralized data,Canteeen feeder - energy imported,Wh,Savona - School,savona_school_bms_Canteeen_feeder_energy_imported,Canteeen_feeder_energy_imported,Mensa - Energia attiva
+47,De-centralized data,Canteeen feeder - energy exported,Wh,Savona - School,savona_school_bms_Canteeen_feeder_energy_exported,Canteeen_feeder_energy_exported,Mensa - Energia attiva esportata
+48,De-centralized data,PV field feeder - active power phase 1,W,Savona - School,savona_school_bms_PV_field_feeder_active_power_phase_1,PV_field_feeder_active_power_phase_1,Fotovoltaico - P1
+49,De-centralized data,PV field feeder - active power phase 2,W,Savona - School,savona_school_bms_PV_field_feeder_active_power_phase_2,PV_field_feeder_active_power_phase_2,Fotovoltaico - P2
+50,De-centralized data,PV field feeder - active power phase 3,W,Savona - School,savona_school_bms_PV_field_feeder_active_power_phase_3,PV_field_feeder_active_power_phase_3,Fotovoltaico - P3
+51,De-centralized data,PV field feeder - energy imported,Wh,Savona - School,savona_school_bms_PV_field_feeder_energy_imported,PV_field_feeder_energy_imported,Fotovoltaico - Energia attiva
+52,De-centralized data,PV field feeder - energy exported,Wh,Savona - School,savona_school_bms_PV_field_feeder_energy_exported,PV_field_feeder_energy_exported,Fotovoltaico - Energia attiva esportata
+53,De-centralized data,Gas meter n.1,Wh,Savona - School,savona_school_bms_Gas_meter_n1,Gas_meter_n1,Energia 1
+54,De-centralized data,Gas meter n.2,Wh,Savona - School,savona_school_bms_Gas_meter_n2,Gas_meter_n2,Energia 2
+55,De-centralized data,Gas meter n.3,Wh,Savona - School,savona_school_bms_Gas_meter_n3,Gas_meter_n3,Energia 3

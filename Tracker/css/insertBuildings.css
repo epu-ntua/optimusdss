@@ -1,0 +1,56 @@
+/*
+Giannis Tsapelas 2015
+*/
+
+h1{
+    display: inline-block;
+}
+
+#newBuildingBtn{
+    margin-left: 10%;
+}
+
+.table-striped > tbody > tr:nth-child(2n+1){
+   background-color: lightgrey;
+}
+
+table {
+    width: 100%;
+    border-radius: 5px;
+}
+
+thead, tbody, tr, td, th { 
+    display: block; 
+}
+        
+tr:after {
+    content: ' ';
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+
+thead th {
+    height: 40px;
+/*    background-color: #054993;*/
+    color: white;
+}
+
+tbody {
+    max-height: 300px;
+    overflow-y: auto;
+    border-radius: 5px;
+}
+
+thead {
+     background-color: #054993;
+     border-radius: 5px;
+}
+
+
+tbody td, thead th {
+    width: 20%;
+    float: left;
+}
+
+
