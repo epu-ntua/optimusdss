@@ -1,22 +1,21 @@
 Synopsis
 =======
 
-Each of the .txt files includes a script which can be used to calculate one of the Action Plans (APs) or Prediction Models (PMs) developed within the OPTIMUS project
-for implementing the DSS to the following pilots: Sant Cugat - Savona - Zaanstad.
+Each of the .R files includes a script which can be used to calculate one of the Action Plans (APs) or Prediction Models (PMs) developed within the OPTIMUS project for implementing the DSS to the following pilots: Sant Cugat - Savona - Zaanstad.
 
-The scripts refer only to the part of the APs and PMs developed under R and applied through RapidMiner. 
+The scripts refer only to the part of the Action Plans and Prediction Models developed under R and applied using a RapidMiner server. 
 
-In order to fully apply the APs and PMs, one must first create and define the data streams required as input for running the scripts.This is done through RapidMiner.
+In order to fully apply the Action Plans and Prediction Models, one must first create and define the data streams required as input for running the scripts. This is done through RapidMiner.
 
 The name of the script provides a brief explanantion of its content as follows:
 
-Creating_Prediction_model_xxxxx_R
+Creating_Prediction_model_xxxxx.R
 This is a script for estimating the parameters of the forecasting model used for prediction variable xxxxx.
 
-Forecasting_Prediction_model_xxxxxx_R
-This is a script for predicting variable xxxxxxxx using the model estimated through Creating_Prediction_model_xxxxx_R.
+Forecasting_Prediction_model_xxxxxx.R
+This is a script for predicting variable xxxxxxxx using the model estimated through Creating_Prediction_model_xxxxx.R.
 
-ActionPlan_xxxxxxxxxxx_R
+ActionPlan_xxxxxxxxxxx.R
 This is a script for implementing Action Plan xxxxxxxxxxx
 
 Based on the folder placed, each PM or AP refers to a different pilot
