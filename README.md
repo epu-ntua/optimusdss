@@ -11,3 +11,4 @@ This repository contains the following:
 6.	SCEAF, which is the sites folder of a standard Drupal 7 installtion
 7.	The Tracker website
 8.	The RDF Parser-Publisher for parsing various files and sources and publish the results to the semantic framework
+9.	RapidMiner models and Action Plans
