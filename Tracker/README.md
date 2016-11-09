@@ -1,4 +1,5 @@
 OPTIMUS TRACKER
+==============
 
 This directory contains the code and the the configuration files of OPTIMUS Tracker.
 
@@ -11,6 +12,7 @@ Database
 
 Edit the file includes/config.php with real data, for example:
 
+```php
 <?php
 
   defined('DB_SERVER')? null : define('DB_SERVER', "mydbserver");
@@ -19,7 +21,7 @@ Edit the file includes/config.php with real data, for example:
   defined('DB_PASS')? null : define('DB_PASS', "mydbpass");
   
 ?>
-
+```
 
 INSTALLATION
 Clone the directory's code and use the db_tracker.sql to import the database schema you need to use the application.
