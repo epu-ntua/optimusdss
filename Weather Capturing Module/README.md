@@ -50,8 +50,7 @@ Output of the process will be a data stream containing two different sets of inf
 * A set of triplets (forecast – measurement – difference) for every event of measurement that might occur.
 
 Installation
-_________
-
+------
 For the installation and correct operation of the weather module, it is necessary to install on a recipient server two main parts:
 
 * One contains the file to generate the data streams (a java script named Optimus_DataCapturingModules.jar)
