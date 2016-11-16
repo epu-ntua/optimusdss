@@ -2,7 +2,7 @@ Weather Capturing Module
 =======
 
 General Information
-_________
+------
 
 The weather forecasting module has been designed to provide meteorological information to the DSS based both on weather forecasts and on locally measured data. Therefore, it will actually be ready to receive two sets of information, relying on input data coming from:
 
