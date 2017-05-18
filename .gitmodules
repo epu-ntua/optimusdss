@@ -1,6 +1,4 @@
 [submodule "optimusdss.symfony2app"]
 	path = optimusdss.symfony2app
 	url = git@github.com:epu-ntua/optimusdss.symfony2app.git
-[submodule "TCV"]
-	path = TCV
-	url = https://github.com/epu-ntua/TCV.git
+
